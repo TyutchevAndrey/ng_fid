@@ -1000,32 +1000,6 @@
         }
       },
       {
-        "id": "14185270",
-        "building_id": "119310",
-        "complex_id": "47855",
-        "title": "ЖК ТОТ, Дом 1, Секция 3, №114",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/6647400d4f101.jpg",
-        "number": "114",
-        "entrance": "3",
-        "floor": 6,
-        "rooms": 2,
-        "square_meters": 52.4,
-        "price": null,
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": 22.2
-            }
-          ]
-        }
-      },
-      {
         "id": "14185271",
         "building_id": "119310",
         "complex_id": "47855",
@@ -1099,6 +1073,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": 12.2
+            }
+          ]
+        }
+      },
+      {
+        "id": "14185282",
+        "building_id": "119310",
+        "complex_id": "47855",
+        "title": "ЖК ТОТ, Дом 1, Секция 3, №126",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/6647400d4f101.jpg",
+        "number": "126",
+        "entrance": "3",
+        "floor": 8,
+        "rooms": 2,
+        "square_meters": 52.4,
+        "price": null,
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": 22.2
             }
           ]
         }
