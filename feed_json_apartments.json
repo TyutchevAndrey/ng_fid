@@ -4094,32 +4094,6 @@
         }
       },
       {
-        "id": "13033766",
-        "building_id": "113085",
-        "complex_id": "16754",
-        "title": "Южный, Дом 3 Секция 3, Секция 3, №8",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3a3663a.jpg",
-        "number": "8",
-        "entrance": "3",
-        "floor": 1,
-        "rooms": 2,
-        "square_meters": 57.4,
-        "price": null,
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": 24.4
-            }
-          ]
-        }
-      },
-      {
         "id": "13033772",
         "building_id": "113085",
         "complex_id": "16754",
