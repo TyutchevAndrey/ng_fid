@@ -94,7 +94,9 @@
       {
         "id": 119310,
         "complex_id": 47855,
-        "image": "https://pb641.profitbase.ru/uploads/house/641/66473655255a4.png",
+        "image": [
+          "https://pb641.profitbase.ru/uploads/house/641/66473655255a4.png"
+        ],
         "address": {
           "country": "Россия",
           "city": "Тверь",
@@ -114,7 +116,9 @@
       {
         "id": 119958,
         "complex_id": 34301,
-        "image": "https://pb641.profitbase.ru/uploads/house/641/666abc59d0f61.jpg",
+        "image": [
+          "https://pb641.profitbase.ru/uploads/house/641/666abc59d0f61.jpg"
+        ],
         "address": {
           "country": "Россия",
           "city": "Батино",
@@ -134,7 +138,9 @@
       {
         "id": 111814,
         "complex_id": 34301,
-        "image": "https://pb641.profitbase.ru/uploads/house/641/6512b752262e0.jpg",
+        "image": [
+          "https://pb641.profitbase.ru/uploads/house/641/6512b752262e0.jpg"
+        ],
         "address": {
           "country": "Россия",
           "city": "Батино",
@@ -154,7 +160,9 @@
       {
         "id": 116963,
         "complex_id": 34301,
-        "image": "https://pb641.profitbase.ru/uploads/house/641/65d4684f369a7.jpg",
+        "image": [
+          "https://pb641.profitbase.ru/uploads/house/641/65d4684f369a7.jpg"
+        ],
         "address": {
           "country": "Россия",
           "city": "Батино",
@@ -174,7 +182,9 @@
       {
         "id": 113085,
         "complex_id": 16754,
-        "image": "https://pb641.profitbase.ru/uploads/house/641/653b68825fab6.jpg",
+        "image": [
+          "https://pb641.profitbase.ru/uploads/house/641/653b68825fab6.jpg"
+        ],
         "address": {
           "country": "Россия",
           "city": "Тверь",
@@ -194,7 +204,9 @@
       {
         "id": 117008,
         "complex_id": 16754,
-        "image": "https://pb641.profitbase.ru/uploads/house/641/65d5cf396ba0b.jpg",
+        "image": [
+          "https://pb641.profitbase.ru/uploads/house/641/65d5cf396ba0b.jpg"
+        ],
         "address": {
           "country": "Россия",
           "city": "Тверь",
@@ -214,7 +226,9 @@
       {
         "id": 123511,
         "complex_id": 16754,
-        "image": "https://pb641.profitbase.ru/uploads/house/641/66f6644c42c00.jpg",
+        "image": [
+          "https://pb641.profitbase.ru/uploads/house/641/66f6644c42c00.jpg"
+        ],
         "address": {
           "country": "Россия",
           "city": "Тверь",
