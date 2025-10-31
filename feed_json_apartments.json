@@ -257,12 +257,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f93f0744.jpg",
-        "number": "4",
-        "entrance": "1",
+        "number": 4,
+        "entrance": 1,
         "floor": 2,
         "rooms": 1,
         "square_meters": 42,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -270,7 +270,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.2
+              "value": "14.2"
             }
           ]
         }
@@ -283,12 +283,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f888d1be.jpg",
-        "number": "9",
-        "entrance": "1",
+        "number": 9,
+        "entrance": 1,
         "floor": 4,
         "rooms": 2,
         "square_meters": 57,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -296,7 +296,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 22.6
+              "value": "22.6"
             }
           ]
         }
@@ -309,12 +309,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f8f6c4b7.jpg",
-        "number": "23",
-        "entrance": "1",
+        "number": 23,
+        "entrance": 1,
         "floor": 7,
         "rooms": 1,
         "square_meters": 23.4,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -322,7 +322,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.1
+              "value": "10.1"
             }
           ]
         }
@@ -335,12 +335,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f8ab9431.jpg",
-        "number": "25",
-        "entrance": "1",
+        "number": 25,
+        "entrance": 1,
         "floor": 8,
         "rooms": 2,
         "square_meters": 58.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -348,7 +348,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 22.6
+              "value": "22.6"
             }
           ]
         }
@@ -361,12 +361,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f91d21e2.jpg",
-        "number": "26",
-        "entrance": "1",
+        "number": 26,
+        "entrance": 1,
         "floor": 8,
         "rooms": 1,
         "square_meters": 30.7,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -374,7 +374,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 9.2
+              "value": "9.2"
             }
           ]
         }
@@ -387,12 +387,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f93f0744.jpg",
-        "number": "28",
-        "entrance": "1",
+        "number": 28,
+        "entrance": 1,
         "floor": 8,
         "rooms": 1,
         "square_meters": 42,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -400,7 +400,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.2
+              "value": "14.2"
             }
           ]
         }
@@ -413,12 +413,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f91d21e2.jpg",
-        "number": "30",
-        "entrance": "1",
+        "number": 30,
+        "entrance": 1,
         "floor": 9,
         "rooms": 1,
         "square_meters": 30.7,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -426,7 +426,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 9.2
+              "value": "9.2"
             }
           ]
         }
@@ -439,12 +439,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f93f0744.jpg",
-        "number": "36",
-        "entrance": "1",
+        "number": 36,
+        "entrance": 1,
         "floor": 10,
         "rooms": 1,
         "square_meters": 42,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -452,7 +452,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.2
+              "value": "14.2"
             }
           ]
         }
@@ -465,12 +465,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f888d1be.jpg",
-        "number": "41",
-        "entrance": "1",
+        "number": 41,
+        "entrance": 1,
         "floor": 12,
         "rooms": 2,
         "square_meters": 57,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -478,7 +478,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 22.6
+              "value": "22.6"
             }
           ]
         }
@@ -491,12 +491,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fb2754eb.jpg",
-        "number": "53",
-        "entrance": "2",
+        "number": 53,
+        "entrance": 2,
         "floor": 4,
         "rooms": 2,
         "square_meters": 62.5,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -504,7 +504,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 24.2
+              "value": "24.2"
             }
           ]
         }
@@ -517,12 +517,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473faf359a8.jpg",
-        "number": "56",
-        "entrance": "2",
+        "number": 56,
+        "entrance": 2,
         "floor": 4,
         "rooms": 2,
         "square_meters": 54.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -530,7 +530,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 20.5
+              "value": "20.5"
             }
           ]
         }
@@ -543,12 +543,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fb6d8c7c.jpg",
-        "number": "59",
-        "entrance": "2",
+        "number": 59,
+        "entrance": 2,
         "floor": 5,
         "rooms": 3,
         "square_meters": 74.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -556,7 +556,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 38.3
+              "value": "38.3"
             }
           ]
         }
@@ -569,12 +569,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fb2754eb.jpg",
-        "number": "61",
-        "entrance": "2",
+        "number": 61,
+        "entrance": 2,
         "floor": 6,
         "rooms": 2,
         "square_meters": 62.5,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -582,7 +582,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 24.2
+              "value": "24.2"
             }
           ]
         }
@@ -595,12 +595,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473facd4d75.jpg",
-        "number": "62",
-        "entrance": "2",
+        "number": 62,
+        "entrance": 2,
         "floor": 6,
         "rooms": 1,
         "square_meters": 39.5,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -608,7 +608,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.5
+              "value": "12.5"
             }
           ]
         }
@@ -621,12 +621,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fb1af972.jpg",
-        "number": "65",
-        "entrance": "2",
+        "number": 65,
+        "entrance": 2,
         "floor": 7,
         "rooms": 2,
         "square_meters": 62.5,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -634,7 +634,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 24.2
+              "value": "24.2"
             }
           ]
         }
@@ -647,12 +647,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fb2754eb.jpg",
-        "number": "69",
-        "entrance": "2",
+        "number": 69,
+        "entrance": 2,
         "floor": 8,
         "rooms": 2,
         "square_meters": 62.5,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -660,7 +660,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 24.2
+              "value": "24.2"
             }
           ]
         }
@@ -673,12 +673,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473facd4d75.jpg",
-        "number": "70",
-        "entrance": "2",
+        "number": 70,
+        "entrance": 2,
         "floor": 8,
         "rooms": 1,
         "square_meters": 39.5,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -686,7 +686,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.5
+              "value": "12.5"
             }
           ]
         }
@@ -699,12 +699,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fb4e99b6.jpg",
-        "number": "71",
-        "entrance": "2",
+        "number": 71,
+        "entrance": 2,
         "floor": 8,
         "rooms": 3,
         "square_meters": 72.5,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -712,7 +712,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 38.3
+              "value": "38.3"
             }
           ]
         }
@@ -725,12 +725,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473faf359a8.jpg",
-        "number": "72",
-        "entrance": "2",
+        "number": 72,
+        "entrance": 2,
         "floor": 8,
         "rooms": 2,
         "square_meters": 54.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -738,7 +738,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 20.5
+              "value": "20.5"
             }
           ]
         }
@@ -751,12 +751,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fae2bced.jpg",
-        "number": "76",
-        "entrance": "2",
+        "number": 76,
+        "entrance": 2,
         "floor": 9,
         "rooms": 2,
         "square_meters": 52.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -764,7 +764,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 20.5
+              "value": "20.5"
             }
           ]
         }
@@ -777,12 +777,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fb40ff56.jpg",
-        "number": "79",
-        "entrance": "2",
+        "number": 79,
+        "entrance": 2,
         "floor": 10,
         "rooms": 3,
         "square_meters": 72.5,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -790,7 +790,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 38.3
+              "value": "38.3"
             }
           ]
         }
@@ -803,12 +803,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fb07f9d2.jpg",
-        "number": "85",
-        "entrance": "2",
+        "number": 85,
+        "entrance": 2,
         "floor": 12,
         "rooms": 2,
         "square_meters": 60.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -816,7 +816,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 24.2
+              "value": "24.2"
             }
           ]
         }
@@ -829,12 +829,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fa93b20c.jpg",
-        "number": "86",
-        "entrance": "2",
+        "number": 86,
+        "entrance": 2,
         "floor": 12,
         "rooms": 1,
         "square_meters": 37.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -842,7 +842,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.5
+              "value": "12.5"
             }
           ]
         }
@@ -855,12 +855,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fae2bced.jpg",
-        "number": "88",
-        "entrance": "2",
+        "number": 88,
+        "entrance": 2,
         "floor": 12,
         "rooms": 2,
         "square_meters": 52.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -868,7 +868,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 20.5
+              "value": "20.5"
             }
           ]
         }
@@ -881,12 +881,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fc8758d1.jpg",
-        "number": "101",
-        "entrance": "3",
+        "number": 101,
+        "entrance": 3,
         "floor": 4,
         "rooms": 1,
         "square_meters": 34.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -894,7 +894,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.2
+              "value": "12.2"
             }
           ]
         }
@@ -907,12 +907,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fcd4e19c.jpg",
-        "number": "107",
-        "entrance": "3",
+        "number": 107,
+        "entrance": 3,
         "floor": 5,
         "rooms": 1,
         "square_meters": 35.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -920,7 +920,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.2
+              "value": "12.2"
             }
           ]
         }
@@ -933,12 +933,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66474013d86d9.jpg",
-        "number": "111",
-        "entrance": "3",
+        "number": 111,
+        "entrance": 3,
         "floor": 5,
         "rooms": 2,
         "square_meters": 67,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -946,7 +946,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 22.6
+              "value": "22.6"
             }
           ]
         }
@@ -959,12 +959,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fde77bd7.jpg",
-        "number": "116",
-        "entrance": "3",
+        "number": 116,
+        "entrance": 3,
         "floor": 6,
         "rooms": 1,
         "square_meters": 41.4,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -972,7 +972,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.3
+              "value": "12.3"
             }
           ]
         }
@@ -985,12 +985,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fc6d8de2.jpg",
-        "number": "125",
-        "entrance": "3",
+        "number": 125,
+        "entrance": 3,
         "floor": 8,
         "rooms": 1,
         "square_meters": 33.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -998,7 +998,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.2
+              "value": "12.2"
             }
           ]
         }
@@ -1011,12 +1011,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fde77bd7.jpg",
-        "number": "128",
-        "entrance": "3",
+        "number": 128,
+        "entrance": 3,
         "floor": 8,
         "rooms": 1,
         "square_meters": 41.4,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1024,7 +1024,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.3
+              "value": "12.3"
             }
           ]
         }
@@ -1037,12 +1037,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fcf177cd.jpg",
-        "number": "133",
-        "entrance": "3",
+        "number": 133,
+        "entrance": 3,
         "floor": 9,
         "rooms": 1,
         "square_meters": 37.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1050,7 +1050,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.7
+              "value": "12.7"
             }
           ]
         }
@@ -1063,12 +1063,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66474004dfe08.jpg",
-        "number": "142",
-        "entrance": "3",
+        "number": 142,
+        "entrance": 3,
         "floor": 10,
         "rooms": 1,
         "square_meters": 45.4,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1076,7 +1076,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.2
+              "value": "13.2"
             }
           ]
         }
@@ -1089,12 +1089,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fca18e6e.jpg",
-        "number": "145",
-        "entrance": "3",
+        "number": 145,
+        "entrance": 3,
         "floor": 11,
         "rooms": 1,
         "square_meters": 35.7,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1102,7 +1102,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.4
+              "value": "12.4"
             }
           ]
         }
@@ -1115,12 +1115,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6647400d4f101.jpg",
-        "number": "150",
-        "entrance": "3",
+        "number": 150,
+        "entrance": 3,
         "floor": 12,
         "rooms": 2,
         "square_meters": 52.4,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1128,7 +1128,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 22.2
+              "value": "22.2"
             }
           ]
         }
@@ -1141,12 +1141,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84f06b5.png",
-        "number": "3",
-        "entrance": "1",
+        "number": 3,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 43.07,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1154,7 +1154,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 11.46
+              "value": "11.46"
             }
           ]
         }
@@ -1167,12 +1167,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3a328c.png",
-        "number": "5",
-        "entrance": "1",
+        "number": 5,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 33.13,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1180,7 +1180,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.13
+              "value": "14.13"
             }
           ]
         }
@@ -1193,12 +1193,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84073c6.png",
-        "number": "6",
-        "entrance": "1",
+        "number": 6,
+        "entrance": 1,
         "floor": 1,
         "rooms": 2,
         "square_meters": 56.01,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1206,7 +1206,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.21
+              "value": "25.21"
             }
           ]
         }
@@ -1219,12 +1219,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3598b3.png",
-        "number": "7",
-        "entrance": "1",
+        "number": 7,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 34.52,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1232,7 +1232,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.75
+              "value": "14.75"
             }
           ]
         }
@@ -1245,12 +1245,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2a2057.png",
-        "number": "9",
-        "entrance": "1",
+        "number": 9,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 35.24,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1258,7 +1258,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.55
+              "value": "12.55"
             }
           ]
         }
@@ -1271,12 +1271,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b859a4cb.png",
-        "number": "10",
-        "entrance": "1",
+        "number": 10,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 41.22,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1284,7 +1284,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.2
+              "value": "15.2"
             }
           ]
         }
@@ -1297,12 +1297,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc4a9fa9.png",
-        "number": "11",
-        "entrance": "1",
+        "number": 11,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 22.55,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1310,7 +1310,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.76
+              "value": "15.76"
             }
           ]
         }
@@ -1323,12 +1323,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3a328c.png",
-        "number": "16",
-        "entrance": "1",
+        "number": 16,
+        "entrance": 1,
         "floor": 2,
         "rooms": 1,
         "square_meters": 33.13,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1336,7 +1336,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.13
+              "value": "14.13"
             }
           ]
         }
@@ -1349,12 +1349,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84073c6.png",
-        "number": "17",
-        "entrance": "1",
+        "number": 17,
+        "entrance": 1,
         "floor": 2,
         "rooms": 2,
         "square_meters": 56.01,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1362,7 +1362,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.21
+              "value": "25.21"
             }
           ]
         }
@@ -1375,12 +1375,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2a2057.png",
-        "number": "20",
-        "entrance": "1",
+        "number": 20,
+        "entrance": 1,
         "floor": 2,
         "rooms": 1,
         "square_meters": 35.24,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1388,7 +1388,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.55
+              "value": "12.55"
             }
           ]
         }
@@ -1401,12 +1401,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84073c6.png",
-        "number": "29",
-        "entrance": "1",
+        "number": 29,
+        "entrance": 1,
         "floor": 3,
         "rooms": 2,
         "square_meters": 56.01,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1414,7 +1414,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.21
+              "value": "25.21"
             }
           ]
         }
@@ -1427,12 +1427,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc4e6f96.png",
-        "number": "31",
-        "entrance": "1",
+        "number": 31,
+        "entrance": 1,
         "floor": 3,
         "rooms": 1,
         "square_meters": 21.38,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1440,7 +1440,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.39
+              "value": "14.39"
             }
           ]
         }
@@ -1453,12 +1453,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3de736.png",
-        "number": "61",
-        "entrance": "1",
+        "number": 61,
+        "entrance": 1,
         "floor": 6,
         "rooms": 1,
         "square_meters": 32.72,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1466,7 +1466,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.64
+              "value": "10.64"
             }
           ]
         }
@@ -1479,12 +1479,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3a328c.png",
-        "number": "76",
-        "entrance": "1",
+        "number": 76,
+        "entrance": 1,
         "floor": 7,
         "rooms": 1,
         "square_meters": 33.13,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1492,7 +1492,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.13
+              "value": "14.13"
             }
           ]
         }
@@ -1505,12 +1505,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2a2057.png",
-        "number": "80",
-        "entrance": "1",
+        "number": 80,
+        "entrance": 1,
         "floor": 7,
         "rooms": 1,
         "square_meters": 35.24,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1518,7 +1518,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.55
+              "value": "12.55"
             }
           ]
         }
@@ -1531,12 +1531,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b854e0dc.png",
-        "number": "87",
-        "entrance": "1",
+        "number": 87,
+        "entrance": 1,
         "floor": 8,
         "rooms": 1,
         "square_meters": 41.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1544,7 +1544,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.23
+              "value": "10.23"
             }
           ]
         }
@@ -1557,12 +1557,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3a328c.png",
-        "number": "88",
-        "entrance": "1",
+        "number": 88,
+        "entrance": 1,
         "floor": 8,
         "rooms": 1,
         "square_meters": 33.13,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1570,7 +1570,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.13
+              "value": "14.13"
             }
           ]
         }
@@ -1583,12 +1583,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84f06b5.png",
-        "number": "98",
-        "entrance": "1",
+        "number": 98,
+        "entrance": 1,
         "floor": 9,
         "rooms": 1,
         "square_meters": 43.07,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1596,7 +1596,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 11.46
+              "value": "11.46"
             }
           ]
         }
@@ -1609,12 +1609,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84073c6.png",
-        "number": "113",
-        "entrance": "1",
+        "number": 113,
+        "entrance": 1,
         "floor": 10,
         "rooms": 2,
         "square_meters": 56.01,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1622,7 +1622,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.21
+              "value": "25.21"
             }
           ]
         }
@@ -1635,12 +1635,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b8465163.png",
-        "number": "114",
-        "entrance": "1",
+        "number": 114,
+        "entrance": 1,
         "floor": 10,
         "rooms": 2,
         "square_meters": 51.83,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1648,7 +1648,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 20.84
+              "value": "20.84"
             }
           ]
         }
@@ -1661,12 +1661,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc4e6f96.png",
-        "number": "115",
-        "entrance": "1",
+        "number": 115,
+        "entrance": 1,
         "floor": 10,
         "rooms": 1,
         "square_meters": 21.38,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1674,7 +1674,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.39
+              "value": "14.39"
             }
           ]
         }
@@ -1687,12 +1687,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2ea851.png",
-        "number": "119",
-        "entrance": "1",
+        "number": 119,
+        "entrance": 1,
         "floor": 10,
         "rooms": 1,
         "square_meters": 35.23,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1700,7 +1700,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.24
+              "value": "15.24"
             }
           ]
         }
@@ -1713,12 +1713,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc443059.png",
-        "number": "120",
-        "entrance": "1",
+        "number": 120,
+        "entrance": 1,
         "floor": 11,
         "rooms": 1,
         "square_meters": 30.37,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1726,7 +1726,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 23.38
+              "value": "23.38"
             }
           ]
         }
@@ -1739,12 +1739,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b859a4cb.png",
-        "number": "129",
-        "entrance": "1",
+        "number": 129,
+        "entrance": 1,
         "floor": 11,
         "rooms": 1,
         "square_meters": 41.22,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1752,7 +1752,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.2
+              "value": "15.2"
             }
           ]
         }
@@ -1765,12 +1765,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3de736.png",
-        "number": "169",
-        "entrance": "1",
+        "number": 169,
+        "entrance": 1,
         "floor": 15,
         "rooms": 1,
         "square_meters": 32.72,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1778,7 +1778,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.64
+              "value": "10.64"
             }
           ]
         }
@@ -1791,12 +1791,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84f06b5.png",
-        "number": "182",
-        "entrance": "1",
+        "number": 182,
+        "entrance": 1,
         "floor": 16,
         "rooms": 1,
         "square_meters": 43.07,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1804,7 +1804,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 11.46
+              "value": "11.46"
             }
           ]
         }
@@ -1817,12 +1817,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3a328c.png",
-        "number": "184",
-        "entrance": "1",
+        "number": 184,
+        "entrance": 1,
         "floor": 16,
         "rooms": 1,
         "square_meters": 33.13,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1830,7 +1830,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.13
+              "value": "14.13"
             }
           ]
         }
@@ -1843,12 +1843,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b8465163.png",
-        "number": "186",
-        "entrance": "1",
+        "number": 186,
+        "entrance": 1,
         "floor": 16,
         "rooms": 2,
         "square_meters": 51.83,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1856,7 +1856,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 20.84
+              "value": "20.84"
             }
           ]
         }
@@ -1869,12 +1869,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc443059.png",
-        "number": "192",
-        "entrance": "1",
+        "number": 192,
+        "entrance": 1,
         "floor": 17,
         "rooms": 1,
         "square_meters": 30.37,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1882,7 +1882,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 23.38
+              "value": "23.38"
             }
           ]
         }
@@ -1895,12 +1895,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b854e0dc.png",
-        "number": "195",
-        "entrance": "1",
+        "number": 195,
+        "entrance": 1,
         "floor": 17,
         "rooms": 1,
         "square_meters": 41.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1908,7 +1908,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.23
+              "value": "10.23"
             }
           ]
         }
@@ -1921,12 +1921,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84073c6.png",
-        "number": "197",
-        "entrance": "1",
+        "number": 197,
+        "entrance": 1,
         "floor": 17,
         "rooms": 2,
         "square_meters": 56.01,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1934,7 +1934,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.21
+              "value": "25.21"
             }
           ]
         }
@@ -1947,12 +1947,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2a2057.png",
-        "number": "200",
-        "entrance": "1",
+        "number": 200,
+        "entrance": 1,
         "floor": 17,
         "rooms": 1,
         "square_meters": 35.24,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1960,7 +1960,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.55
+              "value": "12.55"
             }
           ]
         }
@@ -1973,12 +1973,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b859a4cb.png",
-        "number": "201",
-        "entrance": "1",
+        "number": 201,
+        "entrance": 1,
         "floor": 17,
         "rooms": 1,
         "square_meters": 41.22,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1986,7 +1986,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.2
+              "value": "15.2"
             }
           ]
         }
@@ -1999,12 +1999,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc4a9fa9.png",
-        "number": "202",
-        "entrance": "1",
+        "number": 202,
+        "entrance": 1,
         "floor": 17,
         "rooms": 1,
         "square_meters": 22.55,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2012,7 +2012,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.76
+              "value": "15.76"
             }
           ]
         }
@@ -2025,12 +2025,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84f06b5.png",
-        "number": "206",
-        "entrance": "1",
+        "number": 206,
+        "entrance": 1,
         "floor": 18,
         "rooms": 1,
         "square_meters": 43.07,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2038,7 +2038,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 11.46
+              "value": "11.46"
             }
           ]
         }
@@ -2051,12 +2051,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b854e0dc.png",
-        "number": "207",
-        "entrance": "1",
+        "number": 207,
+        "entrance": 1,
         "floor": 18,
         "rooms": 1,
         "square_meters": 41.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2064,7 +2064,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.23
+              "value": "10.23"
             }
           ]
         }
@@ -2077,12 +2077,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84073c6.png",
-        "number": "209",
-        "entrance": "1",
+        "number": 209,
+        "entrance": 1,
         "floor": 18,
         "rooms": 2,
         "square_meters": 56.01,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2090,7 +2090,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.21
+              "value": "25.21"
             }
           ]
         }
@@ -2103,12 +2103,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2a2057.png",
-        "number": "212",
-        "entrance": "1",
+        "number": 212,
+        "entrance": 1,
         "floor": 18,
         "rooms": 1,
         "square_meters": 35.24,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2116,7 +2116,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.55
+              "value": "12.55"
             }
           ]
         }
@@ -2129,12 +2129,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b859a4cb.png",
-        "number": "213",
-        "entrance": "1",
+        "number": 213,
+        "entrance": 1,
         "floor": 18,
         "rooms": 1,
         "square_meters": 41.22,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2142,7 +2142,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.2
+              "value": "15.2"
             }
           ]
         }
@@ -2155,12 +2155,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2ea851.png",
-        "number": "215",
-        "entrance": "1",
+        "number": 215,
+        "entrance": 1,
         "floor": 18,
         "rooms": 1,
         "square_meters": 35.23,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2168,7 +2168,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.24
+              "value": "15.24"
             }
           ]
         }
@@ -2181,12 +2181,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772c9ec73.jpg",
-        "number": "453",
-        "entrance": "1",
+        "number": 453,
+        "entrance": 1,
         "floor": 4,
         "rooms": 1,
         "square_meters": 48.18,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2194,7 +2194,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.16
+              "value": "14.16"
             }
           ]
         }
@@ -2207,12 +2207,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772c14f37.jpg",
-        "number": "473",
-        "entrance": "1",
+        "number": 473,
+        "entrance": 1,
         "floor": 7,
         "rooms": 2,
         "square_meters": 60.93,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2220,7 +2220,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 26.86
+              "value": "26.86"
             }
           ]
         }
@@ -2233,12 +2233,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772eda2af.jpg",
-        "number": "492",
-        "entrance": "1",
+        "number": 492,
+        "entrance": 1,
         "floor": 9,
         "rooms": 1,
         "square_meters": 25.02,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2246,7 +2246,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.85
+              "value": "12.85"
             }
           ]
         }
@@ -2259,12 +2259,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772e5e2bb.jpg",
-        "number": "498",
-        "entrance": "1",
+        "number": 498,
+        "entrance": 1,
         "floor": 10,
         "rooms": 1,
         "square_meters": 25.76,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2272,7 +2272,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.25
+              "value": "16.25"
             }
           ]
         }
@@ -2285,12 +2285,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772de2297.jpg",
-        "number": "518",
-        "entrance": "1",
+        "number": 518,
+        "entrance": 1,
         "floor": 13,
         "rooms": 1,
         "square_meters": 35.65,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2298,7 +2298,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.22
+              "value": "10.22"
             }
           ]
         }
@@ -2311,12 +2311,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772eda2af.jpg",
-        "number": "520",
-        "entrance": "1",
+        "number": 520,
+        "entrance": 1,
         "floor": 13,
         "rooms": 1,
         "square_meters": 25.02,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2324,7 +2324,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.85
+              "value": "12.85"
             }
           ]
         }
@@ -2337,12 +2337,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6895e1ada0d4d.jpg",
-        "number": "521",
-        "entrance": "1",
+        "number": 521,
+        "entrance": 1,
         "floor": 13,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2350,7 +2350,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 32.82
+              "value": "32.82"
             }
           ]
         }
@@ -2363,12 +2363,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6895e1ada0d4d.jpg",
-        "number": "528",
-        "entrance": "1",
+        "number": 528,
+        "entrance": 1,
         "floor": 14,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2376,7 +2376,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 32.82
+              "value": "32.82"
             }
           ]
         }
@@ -2389,12 +2389,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772b61873.jpg",
-        "number": "531",
-        "entrance": "1",
+        "number": 531,
+        "entrance": 1,
         "floor": 15,
         "rooms": 2,
         "square_meters": 63.61,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2402,7 +2402,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 32.59
+              "value": "32.59"
             }
           ]
         }
@@ -2415,12 +2415,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6895e1ada0d4d.jpg",
-        "number": "542",
-        "entrance": "1",
+        "number": 542,
+        "entrance": 1,
         "floor": 16,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2428,7 +2428,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 32.82
+              "value": "32.82"
             }
           ]
         }
@@ -2441,12 +2441,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d65225f7.jpg",
-        "number": "291",
-        "entrance": "2",
+        "number": 291,
+        "entrance": 2,
         "floor": 8,
         "rooms": 1,
         "square_meters": 30.52,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2454,7 +2454,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.51
+              "value": "12.51"
             }
           ]
         }
@@ -2467,12 +2467,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d638c0fd.jpg",
-        "number": "295",
-        "entrance": "2",
+        "number": 295,
+        "entrance": 2,
         "floor": 8,
         "rooms": 1,
         "square_meters": 35.82,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2480,7 +2480,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.03
+              "value": "15.03"
             }
           ]
         }
@@ -2493,12 +2493,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d649dd17.jpg",
-        "number": "296",
-        "entrance": "2",
+        "number": 296,
+        "entrance": 2,
         "floor": 8,
         "rooms": 1,
         "square_meters": 32.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2506,7 +2506,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.85
+              "value": "13.85"
             }
           ]
         }
@@ -2519,12 +2519,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d6632f91.jpg",
-        "number": "312",
-        "entrance": "2",
+        "number": 312,
+        "entrance": 2,
         "floor": 9,
         "rooms": 1,
         "square_meters": 26.19,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2532,7 +2532,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.66
+              "value": "14.66"
             }
           ]
         }
@@ -2545,12 +2545,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d62ed694.jpg",
-        "number": "313",
-        "entrance": "2",
+        "number": 313,
+        "entrance": 2,
         "floor": 9,
         "rooms": 1,
         "square_meters": 35.79,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2558,7 +2558,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.01
+              "value": "10.01"
             }
           ]
         }
@@ -2571,12 +2571,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d62080e7.jpg",
-        "number": "316",
-        "entrance": "2",
+        "number": 316,
+        "entrance": 2,
         "floor": 10,
         "rooms": 1,
         "square_meters": 37.83,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2584,7 +2584,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.04
+              "value": "15.04"
             }
           ]
         }
@@ -2597,12 +2597,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d6595105.jpg",
-        "number": "328",
-        "entrance": "2",
+        "number": 328,
+        "entrance": 2,
         "floor": 11,
         "rooms": 1,
         "square_meters": 28.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2610,7 +2610,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.37
+              "value": "12.37"
             }
           ]
         }
@@ -2623,12 +2623,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d5de0054.jpg",
-        "number": "337",
-        "entrance": "2",
+        "number": 337,
+        "entrance": 2,
         "floor": 11,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2636,7 +2636,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 45.38
+              "value": "45.38"
             }
           ]
         }
@@ -2649,12 +2649,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d62ed694.jpg",
-        "number": "339",
-        "entrance": "2",
+        "number": 339,
+        "entrance": 2,
         "floor": 11,
         "rooms": 1,
         "square_meters": 35.79,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2662,7 +2662,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.01
+              "value": "10.01"
             }
           ]
         }
@@ -2675,12 +2675,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d62080e7.jpg",
-        "number": "342",
-        "entrance": "2",
+        "number": 342,
+        "entrance": 2,
         "floor": 12,
         "rooms": 1,
         "square_meters": 37.83,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2688,7 +2688,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.04
+              "value": "15.04"
             }
           ]
         }
@@ -2701,12 +2701,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d641626b.jpg",
-        "number": "345",
-        "entrance": "2",
+        "number": 345,
+        "entrance": 2,
         "floor": 12,
         "rooms": 1,
         "square_meters": 33.99,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2714,7 +2714,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.5
+              "value": "14.5"
             }
           ]
         }
@@ -2727,12 +2727,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d5de0054.jpg",
-        "number": "350",
-        "entrance": "2",
+        "number": 350,
+        "entrance": 2,
         "floor": 12,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2740,7 +2740,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 45.38
+              "value": "45.38"
             }
           ]
         }
@@ -2753,12 +2753,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d6157b73.jpg",
-        "number": "372",
-        "entrance": "2",
+        "number": 372,
+        "entrance": 2,
         "floor": 14,
         "rooms": 1,
         "square_meters": 40.23,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2766,7 +2766,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.52
+              "value": "16.52"
             }
           ]
         }
@@ -2779,12 +2779,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d6758eae.jpg",
-        "number": "388",
-        "entrance": "2",
+        "number": 388,
+        "entrance": 2,
         "floor": 15,
         "rooms": 1,
         "square_meters": 20.51,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2792,7 +2792,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.42
+              "value": "12.42"
             }
           ]
         }
@@ -2805,12 +2805,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d5de0054.jpg",
-        "number": "389",
-        "entrance": "2",
+        "number": 389,
+        "entrance": 2,
         "floor": 15,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2818,7 +2818,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 45.38
+              "value": "45.38"
             }
           ]
         }
@@ -2831,12 +2831,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d5de0054.jpg",
-        "number": "402",
-        "entrance": "2",
+        "number": 402,
+        "entrance": 2,
         "floor": 16,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2844,7 +2844,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 45.38
+              "value": "45.38"
             }
           ]
         }
@@ -2857,12 +2857,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6895ee555b289.jpg",
-        "number": "2",
-        "entrance": "4",
+        "number": 2,
+        "entrance": 4,
         "floor": 1,
         "rooms": 3,
         "square_meters": 69.66,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2870,7 +2870,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 39.72
+              "value": "39.72"
             }
           ]
         }
@@ -2883,12 +2883,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3595e967e0.jpg",
-        "number": "3",
-        "entrance": "4",
+        "number": 3,
+        "entrance": 4,
         "floor": 1,
         "rooms": 1,
         "square_meters": 35.93,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2896,7 +2896,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.73
+              "value": "13.73"
             }
           ]
         }
@@ -2909,12 +2909,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6895f39293997.jpg",
-        "number": "18",
-        "entrance": "4",
+        "number": 18,
+        "entrance": 4,
         "floor": 4,
         "rooms": 1,
         "square_meters": 38.84,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2922,7 +2922,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.12
+              "value": "16.12"
             }
           ]
         }
@@ -2935,12 +2935,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3595a7d97e.jpg",
-        "number": "21",
-        "entrance": "4",
+        "number": 21,
+        "entrance": 4,
         "floor": 5,
         "rooms": 1,
         "square_meters": 31.03,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2948,7 +2948,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.01
+              "value": "12.01"
             }
           ]
         }
@@ -2961,12 +2961,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3595c403a3.jpg",
-        "number": "27",
-        "entrance": "4",
+        "number": 27,
+        "entrance": 4,
         "floor": 6,
         "rooms": 1,
         "square_meters": 35.46,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2974,7 +2974,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.16
+              "value": "14.16"
             }
           ]
         }
@@ -2987,12 +2987,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6895f393252c3.jpg",
-        "number": "29",
-        "entrance": "4",
+        "number": 29,
+        "entrance": 4,
         "floor": 6,
         "rooms": 2,
         "square_meters": 53.36,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3000,7 +3000,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 22.71
+              "value": "22.71"
             }
           ]
         }
@@ -3013,12 +3013,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35962cad91.jpg",
-        "number": "35",
-        "entrance": "4",
+        "number": 35,
+        "entrance": 4,
         "floor": 8,
         "rooms": 2,
         "square_meters": 52.74,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3026,7 +3026,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.69
+              "value": "25.69"
             }
           ]
         }
@@ -3039,12 +3039,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3595a7d97e.jpg",
-        "number": "66",
-        "entrance": "4",
+        "number": 66,
+        "entrance": 4,
         "floor": 14,
         "rooms": 1,
         "square_meters": 31.03,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3052,7 +3052,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.01
+              "value": "12.01"
             }
           ]
         }
@@ -3065,12 +3065,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3595a7d97e.jpg",
-        "number": "71",
-        "entrance": "4",
+        "number": 71,
+        "entrance": 4,
         "floor": 15,
         "rooms": 1,
         "square_meters": 31.03,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3078,7 +3078,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.01
+              "value": "12.01"
             }
           ]
         }
@@ -3091,12 +3091,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6895f393252c3.jpg",
-        "number": "74",
-        "entrance": "4",
+        "number": 74,
+        "entrance": 4,
         "floor": 15,
         "rooms": 2,
         "square_meters": 53.36,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3104,7 +3104,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 22.71
+              "value": "22.71"
             }
           ]
         }
@@ -3117,12 +3117,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35962cad91.jpg",
-        "number": "75",
-        "entrance": "4",
+        "number": 75,
+        "entrance": 4,
         "floor": 16,
         "rooms": 2,
         "square_meters": 52.74,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3130,7 +3130,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.69
+              "value": "25.69"
             }
           ]
         }
@@ -3143,12 +3143,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/6895f39293997.jpg",
-        "number": "78",
-        "entrance": "4",
+        "number": 78,
+        "entrance": 4,
         "floor": 16,
         "rooms": 1,
         "square_meters": 38.84,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3156,7 +3156,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.12
+              "value": "16.12"
             }
           ]
         }
@@ -3169,12 +3169,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3595a7d97e.jpg",
-        "number": "81",
-        "entrance": "4",
+        "number": 81,
+        "entrance": 4,
         "floor": 17,
         "rooms": 1,
         "square_meters": 31.03,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3182,7 +3182,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.01
+              "value": "12.01"
             }
           ]
         }
@@ -3195,12 +3195,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35941c0e6b.jpg",
-        "number": "92",
-        "entrance": "3",
+        "number": 92,
+        "entrance": 3,
         "floor": 1,
         "rooms": 2,
         "square_meters": 66.46,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3208,7 +3208,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 31.99
+              "value": "31.99"
             }
           ]
         }
@@ -3221,12 +3221,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359249e7a2.jpg",
-        "number": "93",
-        "entrance": "3",
+        "number": 93,
+        "entrance": 3,
         "floor": 1,
         "rooms": 1,
         "square_meters": 21.52,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3234,7 +3234,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.16
+              "value": "12.16"
             }
           ]
         }
@@ -3247,12 +3247,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359432b54e.jpg",
-        "number": "115",
-        "entrance": "3",
+        "number": 115,
+        "entrance": 3,
         "floor": 5,
         "rooms": 3,
         "square_meters": 72.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3260,7 +3260,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 38.92
+              "value": "38.92"
             }
           ]
         }
@@ -3273,12 +3273,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35941c0e6b.jpg",
-        "number": "128",
-        "entrance": "3",
+        "number": 128,
+        "entrance": 3,
         "floor": 7,
         "rooms": 2,
         "square_meters": 66.46,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3286,7 +3286,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 31.99
+              "value": "31.99"
             }
           ]
         }
@@ -3299,12 +3299,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359249e7a2.jpg",
-        "number": "135",
-        "entrance": "3",
+        "number": 135,
+        "entrance": 3,
         "floor": 8,
         "rooms": 1,
         "square_meters": 21.52,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3312,7 +3312,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.16
+              "value": "12.16"
             }
           ]
         }
@@ -3325,12 +3325,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3593d90f10.jpg",
-        "number": "136",
-        "entrance": "3",
+        "number": 136,
+        "entrance": 3,
         "floor": 8,
         "rooms": 1,
         "square_meters": 32.42,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3338,7 +3338,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.72
+              "value": "13.72"
             }
           ]
         }
@@ -3351,12 +3351,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3593d90f10.jpg",
-        "number": "142",
-        "entrance": "3",
+        "number": 142,
+        "entrance": 3,
         "floor": 9,
         "rooms": 1,
         "square_meters": 32.42,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3364,7 +3364,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.72
+              "value": "13.72"
             }
           ]
         }
@@ -3377,12 +3377,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3593ec608a.jpg",
-        "number": "168",
-        "entrance": "3",
+        "number": 168,
+        "entrance": 3,
         "floor": 14,
         "rooms": 1,
         "square_meters": 33.06,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3390,7 +3390,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.82
+              "value": "12.82"
             }
           ]
         }
@@ -3403,12 +3403,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359249e7a2.jpg",
-        "number": "183",
-        "entrance": "3",
+        "number": 183,
+        "entrance": 3,
         "floor": 16,
         "rooms": 1,
         "square_meters": 21.52,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3416,7 +3416,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.16
+              "value": "12.16"
             }
           ]
         }
@@ -3429,12 +3429,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3593d90f10.jpg",
-        "number": "184",
-        "entrance": "3",
+        "number": 184,
+        "entrance": 3,
         "floor": 16,
         "rooms": 1,
         "square_meters": 32.42,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3442,7 +3442,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.72
+              "value": "13.72"
             }
           ]
         }
@@ -3455,12 +3455,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359432b54e.jpg",
-        "number": "187",
-        "entrance": "3",
+        "number": 187,
+        "entrance": 3,
         "floor": 17,
         "rooms": 3,
         "square_meters": 72.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3468,7 +3468,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 38.92
+              "value": "38.92"
             }
           ]
         }
@@ -3481,12 +3481,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35940a853b.jpg",
-        "number": "191",
-        "entrance": "3",
+        "number": 191,
+        "entrance": 3,
         "floor": 17,
         "rooms": 2,
         "square_meters": 54.55,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3494,7 +3494,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 27.82
+              "value": "27.82"
             }
           ]
         }
@@ -3507,12 +3507,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3593ec608a.jpg",
-        "number": "192",
-        "entrance": "3",
+        "number": 192,
+        "entrance": 3,
         "floor": 18,
         "rooms": 1,
         "square_meters": 33.06,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3520,7 +3520,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.82
+              "value": "12.82"
             }
           ]
         }
@@ -3533,12 +3533,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35940a853b.jpg",
-        "number": "197",
-        "entrance": "3",
+        "number": 197,
+        "entrance": 3,
         "floor": 18,
         "rooms": 2,
         "square_meters": 54.55,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3546,7 +3546,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 27.82
+              "value": "27.82"
             }
           ]
         }
@@ -3559,12 +3559,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e42c0909.jpg",
-        "number": "1",
-        "entrance": "3",
+        "number": 1,
+        "entrance": 3,
         "floor": 1,
         "rooms": 1,
         "square_meters": 46.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3572,7 +3572,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 18
+              "value": "18"
             }
           ]
         }
@@ -3585,12 +3585,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e4098a67.jpg",
-        "number": "2",
-        "entrance": "3",
+        "number": 2,
+        "entrance": 3,
         "floor": 1,
         "rooms": 1,
         "square_meters": 46.7,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3598,7 +3598,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 17.5
+              "value": "17.5"
             }
           ]
         }
@@ -3611,12 +3611,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3ed4274.jpg",
-        "number": "3",
-        "entrance": "3",
+        "number": 3,
+        "entrance": 3,
         "floor": 1,
         "rooms": 3,
         "square_meters": 77.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3624,7 +3624,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 39
+              "value": "39"
             }
           ]
         }
@@ -3637,12 +3637,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e46a9510.jpg",
-        "number": "4",
-        "entrance": "3",
+        "number": 4,
+        "entrance": 3,
         "floor": 1,
         "rooms": 1,
         "square_meters": 40.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3650,7 +3650,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.3
+              "value": "12.3"
             }
           ]
         }
@@ -3663,12 +3663,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e4a2ca4c.jpg",
-        "number": "5",
-        "entrance": "3",
+        "number": 5,
+        "entrance": 3,
         "floor": 1,
         "rooms": 1,
         "square_meters": 35.7,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3676,7 +3676,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12.8
+              "value": "12.8"
             }
           ]
         }
@@ -3689,12 +3689,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e492de70.jpg",
-        "number": "6",
-        "entrance": "3",
+        "number": 6,
+        "entrance": 3,
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3702,7 +3702,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.4
+              "value": "16.4"
             }
           ]
         }
@@ -3715,12 +3715,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3c05630.jpg",
-        "number": "14",
-        "entrance": "3",
+        "number": 14,
+        "entrance": 3,
         "floor": 2,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3728,7 +3728,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 39
+              "value": "39"
             }
           ]
         }
@@ -3741,12 +3741,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e43bac9c.jpg",
-        "number": "29",
-        "entrance": "3",
+        "number": 29,
+        "entrance": 3,
         "floor": 3,
         "rooms": 1,
         "square_meters": 43.1,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3754,7 +3754,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12
+              "value": "12"
             }
           ]
         }
@@ -3767,12 +3767,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653bab3407e7a.jpg",
-        "number": "36",
-        "entrance": "3",
+        "number": 36,
+        "entrance": 3,
         "floor": 4,
         "rooms": 3,
         "square_meters": 77.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3780,7 +3780,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 39
+              "value": "39"
             }
           ]
         }
@@ -3793,12 +3793,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e492de70.jpg",
-        "number": "72",
-        "entrance": "3",
+        "number": 72,
+        "entrance": 3,
         "floor": 7,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3806,7 +3806,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.4
+              "value": "16.4"
             }
           ]
         }
@@ -3819,12 +3819,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3a3663a.jpg",
-        "number": "74",
-        "entrance": "3",
+        "number": 74,
+        "entrance": 3,
         "floor": 7,
         "rooms": 2,
         "square_meters": 57.4,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3832,7 +3832,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 24.4
+              "value": "24.4"
             }
           ]
         }
@@ -3845,12 +3845,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e43bac9c.jpg",
-        "number": "84",
-        "entrance": "3",
+        "number": 84,
+        "entrance": 3,
         "floor": 8,
         "rooms": 1,
         "square_meters": 43.1,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3858,7 +3858,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 12
+              "value": "12"
             }
           ]
         }
@@ -3871,12 +3871,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3b1fe7b.jpg",
-        "number": "103",
-        "entrance": "3",
+        "number": 103,
+        "entrance": 3,
         "floor": 10,
         "rooms": 2,
         "square_meters": 59.7,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3884,7 +3884,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.5
+              "value": "25.5"
             }
           ]
         }
@@ -3897,12 +3897,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e492de70.jpg",
-        "number": "116",
-        "entrance": "3",
+        "number": 116,
+        "entrance": 3,
         "floor": 11,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3910,7 +3910,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.4
+              "value": "16.4"
             }
           ]
         }
@@ -3923,12 +3923,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3a3663a.jpg",
-        "number": "129",
-        "entrance": "3",
+        "number": 129,
+        "entrance": 3,
         "floor": 12,
         "rooms": 2,
         "square_meters": 57.4,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3936,7 +3936,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 24.4
+              "value": "24.4"
             }
           ]
         }
@@ -3949,12 +3949,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3c05630.jpg",
-        "number": "135",
-        "entrance": "3",
+        "number": 135,
+        "entrance": 3,
         "floor": 13,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3962,7 +3962,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 39
+              "value": "39"
             }
           ]
         }
@@ -3975,12 +3975,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e47c931b.jpg",
-        "number": "137",
-        "entrance": "3",
+        "number": 137,
+        "entrance": 3,
         "floor": 13,
         "rooms": 1,
         "square_meters": 39.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3988,7 +3988,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.9
+              "value": "16.9"
             }
           ]
         }
@@ -4001,12 +4001,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e47c931b.jpg",
-        "number": "159",
-        "entrance": "3",
+        "number": 159,
+        "entrance": 3,
         "floor": 15,
         "rooms": 1,
         "square_meters": 39.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4014,7 +4014,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.9
+              "value": "16.9"
             }
           ]
         }
@@ -4027,12 +4027,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e4147f42.jpg",
-        "number": "167",
-        "entrance": "3",
+        "number": 167,
+        "entrance": 3,
         "floor": 16,
         "rooms": 1,
         "square_meters": 45.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4040,7 +4040,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 17.5
+              "value": "17.5"
             }
           ]
         }
@@ -4053,12 +4053,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3c05630.jpg",
-        "number": "168",
-        "entrance": "3",
+        "number": 168,
+        "entrance": 3,
         "floor": 16,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4066,7 +4066,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 39
+              "value": "39"
             }
           ]
         }
@@ -4079,12 +4079,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3ca52406.jpg",
-        "number": "1",
-        "entrance": "1",
+        "number": 1,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 38,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4092,7 +4092,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 11.1
+              "value": "11.1"
             }
           ]
         }
@@ -4105,12 +4105,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3ce1a2a1.jpg",
-        "number": "2",
-        "entrance": "1",
+        "number": 2,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 39.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4118,7 +4118,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.7
+              "value": "15.7"
             }
           ]
         }
@@ -4131,12 +4131,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d926577.jpg",
-        "number": "3",
-        "entrance": "1",
+        "number": 3,
+        "entrance": 1,
         "floor": 1,
         "rooms": 3,
         "square_meters": 80.7,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4144,7 +4144,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 40.9
+              "value": "40.9"
             }
           ]
         }
@@ -4157,12 +4157,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3cbb492a.jpg",
-        "number": "4",
-        "entrance": "1",
+        "number": 4,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 39.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4170,7 +4170,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.6
+              "value": "10.6"
             }
           ]
         }
@@ -4183,12 +4183,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d3e5479.jpg",
-        "number": "6",
-        "entrance": "1",
+        "number": 6,
+        "entrance": 1,
         "floor": 1,
         "rooms": 2,
         "square_meters": 63.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4196,7 +4196,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.3
+              "value": "25.3"
             }
           ]
         }
@@ -4209,12 +4209,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c6721f1.jpg",
-        "number": "7",
-        "entrance": "1",
+        "number": 7,
+        "entrance": 1,
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4222,7 +4222,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.6
+              "value": "13.6"
             }
           ]
         }
@@ -4235,12 +4235,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d271258.jpg",
-        "number": "8",
-        "entrance": "1",
+        "number": 8,
+        "entrance": 1,
         "floor": 1,
         "rooms": 2,
         "square_meters": 63,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4248,7 +4248,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 28.7
+              "value": "28.7"
             }
           ]
         }
@@ -4261,12 +4261,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5bad8750f5.jpg",
-        "number": "12",
-        "entrance": "1",
+        "number": 12,
+        "entrance": 1,
         "floor": 2,
         "rooms": 3,
         "square_meters": 79.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4274,7 +4274,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 40.9
+              "value": "40.9"
             }
           ]
         }
@@ -4287,12 +4287,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d603bda.jpg",
-        "number": "14",
-        "entrance": "1",
+        "number": 14,
+        "entrance": 1,
         "floor": 2,
         "rooms": 2,
         "square_meters": 68.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4300,7 +4300,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 26.1
+              "value": "26.1"
             }
           ]
         }
@@ -4313,12 +4313,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c6721f1.jpg",
-        "number": "16",
-        "entrance": "1",
+        "number": 16,
+        "entrance": 1,
         "floor": 2,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4326,7 +4326,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.6
+              "value": "13.6"
             }
           ]
         }
@@ -4339,12 +4339,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d1818fd.jpg",
-        "number": "17",
-        "entrance": "1",
+        "number": 17,
+        "entrance": 1,
         "floor": 2,
         "rooms": 2,
         "square_meters": 61.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4352,7 +4352,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 28.7
+              "value": "28.7"
             }
           ]
         }
@@ -4365,12 +4365,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d744a582190.jpg",
-        "number": "30",
-        "entrance": "1",
+        "number": 30,
+        "entrance": 1,
         "floor": 4,
         "rooms": 1,
         "square_meters": 37.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4378,7 +4378,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.7
+              "value": "10.7"
             }
           ]
         }
@@ -4391,12 +4391,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d1818fd.jpg",
-        "number": "67",
-        "entrance": "1",
+        "number": 67,
+        "entrance": 1,
         "floor": 7,
         "rooms": 2,
         "square_meters": 61.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4404,7 +4404,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 28.7
+              "value": "28.7"
             }
           ]
         }
@@ -4417,12 +4417,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c51ab74.jpg",
-        "number": "69",
-        "entrance": "1",
+        "number": 69,
+        "entrance": 1,
         "floor": 7,
         "rooms": 1,
         "square_meters": 23.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4430,7 +4430,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.4
+              "value": "13.4"
             }
           ]
         }
@@ -4443,12 +4443,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d603bda.jpg",
-        "number": "74",
-        "entrance": "1",
+        "number": 74,
+        "entrance": 1,
         "floor": 8,
         "rooms": 2,
         "square_meters": 68.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4456,7 +4456,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 26.1
+              "value": "26.1"
             }
           ]
         }
@@ -4469,12 +4469,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c51ab74.jpg",
-        "number": "89",
-        "entrance": "1",
+        "number": 89,
+        "entrance": 1,
         "floor": 9,
         "rooms": 1,
         "square_meters": 23.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4482,7 +4482,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.4
+              "value": "13.4"
             }
           ]
         }
@@ -4495,12 +4495,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3cf2d494.jpg",
-        "number": "108",
-        "entrance": "1",
+        "number": 108,
+        "entrance": 1,
         "floor": 11,
         "rooms": 2,
         "square_meters": 55.1,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4508,7 +4508,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 22
+              "value": "22"
             }
           ]
         }
@@ -4521,12 +4521,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c9464fb.jpg",
-        "number": "111",
-        "entrance": "1",
+        "number": 111,
+        "entrance": 1,
         "floor": 12,
         "rooms": 1,
         "square_meters": 38.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4534,7 +4534,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.4
+              "value": "15.4"
             }
           ]
         }
@@ -4547,12 +4547,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c6721f1.jpg",
-        "number": "116",
-        "entrance": "1",
+        "number": 116,
+        "entrance": 1,
         "floor": 12,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4560,7 +4560,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 13.6
+              "value": "13.6"
             }
           ]
         }
@@ -4573,12 +4573,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c7c7544.jpg",
-        "number": "120",
-        "entrance": "1",
+        "number": 120,
+        "entrance": 1,
         "floor": 13,
         "rooms": 1,
         "square_meters": 37.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4586,7 +4586,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.7
+              "value": "10.7"
             }
           ]
         }
@@ -4599,12 +4599,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5bad8750f5.jpg",
-        "number": "122",
-        "entrance": "1",
+        "number": 122,
+        "entrance": 1,
         "floor": 13,
         "rooms": 3,
         "square_meters": 79.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4612,7 +4612,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 40.9
+              "value": "40.9"
             }
           ]
         }
@@ -4625,12 +4625,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d603bda.jpg",
-        "number": "134",
-        "entrance": "1",
+        "number": 134,
+        "entrance": 1,
         "floor": 14,
         "rooms": 2,
         "square_meters": 68.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4638,7 +4638,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 26.1
+              "value": "26.1"
             }
           ]
         }
@@ -4651,12 +4651,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d4dd53b.jpg",
-        "number": "135",
-        "entrance": "1",
+        "number": 135,
+        "entrance": 1,
         "floor": 14,
         "rooms": 2,
         "square_meters": 63,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4664,7 +4664,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.3
+              "value": "25.3"
             }
           ]
         }
@@ -4677,12 +4677,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d4dd53b.jpg",
-        "number": "145",
-        "entrance": "1",
+        "number": 145,
+        "entrance": 1,
         "floor": 15,
         "rooms": 2,
         "square_meters": 63,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4690,7 +4690,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 25.3
+              "value": "25.3"
             }
           ]
         }
@@ -4703,12 +4703,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277ba3ff58.jpg",
-        "number": "151",
-        "entrance": "2",
+        "number": 151,
+        "entrance": 2,
         "floor": 1,
         "rooms": 1,
         "square_meters": 48.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4716,7 +4716,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.6
+              "value": "15.6"
             }
           ]
         }
@@ -4729,12 +4729,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b5344a8.jpg",
-        "number": "152",
-        "entrance": "2",
+        "number": 152,
+        "entrance": 2,
         "floor": 1,
         "rooms": 2,
         "square_meters": 78.4,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4742,7 +4742,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 34.6
+              "value": "34.6"
             }
           ]
         }
@@ -4755,12 +4755,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277bac7c55.jpg",
-        "number": "153",
-        "entrance": "2",
+        "number": 153,
+        "entrance": 2,
         "floor": 1,
         "rooms": 1,
         "square_meters": 47.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4768,7 +4768,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 18.7
+              "value": "18.7"
             }
           ]
         }
@@ -4781,12 +4781,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b33582a.jpg",
-        "number": "154",
-        "entrance": "2",
+        "number": 154,
+        "entrance": 2,
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4794,7 +4794,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.9
+              "value": "15.9"
             }
           ]
         }
@@ -4807,12 +4807,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b9b3a8b.jpg",
-        "number": "156",
-        "entrance": "2",
+        "number": 156,
+        "entrance": 2,
         "floor": 1,
         "rooms": 2,
         "square_meters": 55.1,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4820,7 +4820,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 27.6
+              "value": "27.6"
             }
           ]
         }
@@ -4833,12 +4833,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b1a848e.jpg",
-        "number": "157",
-        "entrance": "2",
+        "number": 157,
+        "entrance": 2,
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4846,7 +4846,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 14.6
+              "value": "14.6"
             }
           ]
         }
@@ -4859,12 +4859,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b6ce9bc.jpg",
-        "number": "158",
-        "entrance": "2",
+        "number": 158,
+        "entrance": 2,
         "floor": 1,
         "rooms": 2,
         "square_meters": 70.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4872,7 +4872,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 33.8
+              "value": "33.8"
             }
           ]
         }
@@ -4885,12 +4885,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b42e0fb.jpg",
-        "number": "159",
-        "entrance": "2",
+        "number": 159,
+        "entrance": 2,
         "floor": 1,
         "rooms": 1,
         "square_meters": 27.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4898,7 +4898,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.8
+              "value": "16.8"
             }
           ]
         }
@@ -4911,12 +4911,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b64bccb.jpg",
-        "number": "162",
-        "entrance": "2",
+        "number": 162,
+        "entrance": 2,
         "floor": 2,
         "rooms": 2,
         "square_meters": 77.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4924,7 +4924,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 34.6
+              "value": "34.6"
             }
           ]
         }
@@ -4937,12 +4937,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277be70a35.jpg",
-        "number": "163",
-        "entrance": "2",
+        "number": 163,
+        "entrance": 2,
         "floor": 2,
         "rooms": 1,
         "square_meters": 47.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4950,7 +4950,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 18.7
+              "value": "18.7"
             }
           ]
         }
@@ -4963,12 +4963,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b80227d.jpg",
-        "number": "168",
-        "entrance": "2",
+        "number": 168,
+        "entrance": 2,
         "floor": 2,
         "rooms": 2,
         "square_meters": 69.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4976,7 +4976,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 33.8
+              "value": "33.8"
             }
           ]
         }
@@ -4989,12 +4989,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277af75207.jpg",
-        "number": "170",
-        "entrance": "2",
+        "number": 170,
+        "entrance": 2,
         "floor": 2,
         "rooms": 1,
         "square_meters": 39.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5002,7 +5002,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.3
+              "value": "15.3"
             }
           ]
         }
@@ -5015,12 +5015,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277bd07bb3.jpg",
-        "number": "172",
-        "entrance": "2",
+        "number": 172,
+        "entrance": 2,
         "floor": 3,
         "rooms": 1,
         "square_meters": 47.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5028,7 +5028,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.6
+              "value": "15.6"
             }
           ]
         }
@@ -5041,12 +5041,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277be70a35.jpg",
-        "number": "174",
-        "entrance": "2",
+        "number": 174,
+        "entrance": 2,
         "floor": 3,
         "rooms": 1,
         "square_meters": 47.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5054,7 +5054,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 18.7
+              "value": "18.7"
             }
           ]
         }
@@ -5067,12 +5067,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b9276ad.jpg",
-        "number": "176",
-        "entrance": "2",
+        "number": 176,
+        "entrance": 2,
         "floor": 3,
         "rooms": 2,
         "square_meters": 55.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5080,7 +5080,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 30
+              "value": "30"
             }
           ]
         }
@@ -5093,12 +5093,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b42e0fb.jpg",
-        "number": "246",
-        "entrance": "2",
+        "number": 246,
+        "entrance": 2,
         "floor": 9,
         "rooms": 1,
         "square_meters": 27.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5106,7 +5106,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.8
+              "value": "16.8"
             }
           ]
         }
@@ -5119,12 +5119,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b33582a.jpg",
-        "number": "274",
-        "entrance": "2",
+        "number": 274,
+        "entrance": 2,
         "floor": 12,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5132,7 +5132,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.9
+              "value": "15.9"
             }
           ]
         }
@@ -5145,12 +5145,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b9276ad.jpg",
-        "number": "275",
-        "entrance": "2",
+        "number": 275,
+        "entrance": 2,
         "floor": 12,
         "rooms": 2,
         "square_meters": 55.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5158,7 +5158,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 30
+              "value": "30"
             }
           ]
         }
@@ -5171,12 +5171,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277bd07bb3.jpg",
-        "number": "282",
-        "entrance": "2",
+        "number": 282,
+        "entrance": 2,
         "floor": 13,
         "rooms": 1,
         "square_meters": 47.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5184,7 +5184,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.6
+              "value": "15.6"
             }
           ]
         }
@@ -5197,12 +5197,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b64bccb.jpg",
-        "number": "283",
-        "entrance": "2",
+        "number": 283,
+        "entrance": 2,
         "floor": 13,
         "rooms": 2,
         "square_meters": 77.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5210,7 +5210,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 34.6
+              "value": "34.6"
             }
           ]
         }
@@ -5223,12 +5223,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b33582a.jpg",
-        "number": "285",
-        "entrance": "2",
+        "number": 285,
+        "entrance": 2,
         "floor": 13,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5236,7 +5236,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.9
+              "value": "15.9"
             }
           ]
         }
@@ -5249,12 +5249,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b42e0fb.jpg",
-        "number": "290",
-        "entrance": "2",
+        "number": 290,
+        "entrance": 2,
         "floor": 13,
         "rooms": 1,
         "square_meters": 27.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5262,7 +5262,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 16.8
+              "value": "16.8"
             }
           ]
         }
@@ -5275,12 +5275,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277af75207.jpg",
-        "number": "291",
-        "entrance": "2",
+        "number": 291,
+        "entrance": 2,
         "floor": 13,
         "rooms": 1,
         "square_meters": 39.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5288,7 +5288,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.3
+              "value": "15.3"
             }
           ]
         }
@@ -5301,12 +5301,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277ae6def0.jpg",
-        "number": "292",
-        "entrance": "2",
+        "number": 292,
+        "entrance": 2,
         "floor": 14,
         "rooms": 1,
         "square_meters": 41.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5314,7 +5314,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 11.1
+              "value": "11.1"
             }
           ]
         }
@@ -5327,12 +5327,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277bd07bb3.jpg",
-        "number": "293",
-        "entrance": "2",
+        "number": 293,
+        "entrance": 2,
         "floor": 14,
         "rooms": 1,
         "square_meters": 47.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5340,7 +5340,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.6
+              "value": "15.6"
             }
           ]
         }
@@ -5353,12 +5353,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b64bccb.jpg",
-        "number": "294",
-        "entrance": "2",
+        "number": 294,
+        "entrance": 2,
         "floor": 14,
         "rooms": 2,
         "square_meters": 77.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5366,7 +5366,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 34.6
+              "value": "34.6"
             }
           ]
         }
@@ -5379,12 +5379,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b80227d.jpg",
-        "number": "300",
-        "entrance": "2",
+        "number": 300,
+        "entrance": 2,
         "floor": 14,
         "rooms": 2,
         "square_meters": 69.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5392,7 +5392,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 33.8
+              "value": "33.8"
             }
           ]
         }
@@ -5405,12 +5405,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277bd07bb3.jpg",
-        "number": "304",
-        "entrance": "2",
+        "number": 304,
+        "entrance": 2,
         "floor": 15,
         "rooms": 1,
         "square_meters": 47.8,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5418,7 +5418,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.6
+              "value": "15.6"
             }
           ]
         }
@@ -5431,12 +5431,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b64bccb.jpg",
-        "number": "305",
-        "entrance": "2",
+        "number": 305,
+        "entrance": 2,
         "floor": 15,
         "rooms": 2,
         "square_meters": 77.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5444,7 +5444,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 34.6
+              "value": "34.6"
             }
           ]
         }
@@ -5457,12 +5457,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277be70a35.jpg",
-        "number": "306",
-        "entrance": "2",
+        "number": 306,
+        "entrance": 2,
         "floor": 15,
         "rooms": 1,
         "square_meters": 47.3,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5470,7 +5470,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 18.7
+              "value": "18.7"
             }
           ]
         }
@@ -5483,12 +5483,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b9276ad.jpg",
-        "number": "308",
-        "entrance": "2",
+        "number": 308,
+        "entrance": 2,
         "floor": 15,
         "rooms": 2,
         "square_meters": 55.6,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5496,7 +5496,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 30
+              "value": "30"
             }
           ]
         }
@@ -5509,12 +5509,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b08a81d.jpg",
-        "number": "309",
-        "entrance": "2",
+        "number": 309,
+        "entrance": 2,
         "floor": 15,
         "rooms": 1,
         "square_meters": 38.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5522,7 +5522,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 10.7
+              "value": "10.7"
             }
           ]
         }
@@ -5535,12 +5535,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b80227d.jpg",
-        "number": "311",
-        "entrance": "2",
+        "number": 311,
+        "entrance": 2,
         "floor": 15,
         "rooms": 2,
         "square_meters": 69.9,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5548,7 +5548,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 33.8
+              "value": "33.8"
             }
           ]
         }
@@ -5561,12 +5561,12 @@
         "type": "apartment",
         "parking_slot_type": null,
         "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277af75207.jpg",
-        "number": "313",
-        "entrance": "2",
+        "number": 313,
+        "entrance": 2,
         "floor": 15,
         "rooms": 1,
         "square_meters": 39.2,
-        "price": null,
+        "price": "0",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -5574,7 +5574,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": 15.3
+              "value": "15.3"
             }
           ]
         }
