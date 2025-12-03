@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-03T06:00:41.082Z",
+  "updated_at": "2025-12-03T06:43:28.993Z",
   "news": [
     {
       "id": 1,
@@ -96,7 +96,12 @@
       "preview": "3 причины, почему покупка жилья в 2026 году будет сложнее и дороже\r",
       "text": "Если вы планировали купить квартиру — успейте сделать это до Нового года на более выгодных условиях. О грядущих изменениях на рынке недвижимости рассказали в карточках.\n<p>\nДля подбора звоните: +7 (4822) 47-97-48\n",
       "date": "2025-12-01T00:00:00.000Z",
-      "images": [],
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/8-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/8-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/8-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/8-4.jpg"
+      ],
       "visibility": "visible"
     }
   ]
