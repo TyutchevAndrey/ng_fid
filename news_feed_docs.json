@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-18T06:00:27.366Z",
+  "updated_at": "2025-12-19T06:00:26.014Z",
   "news": [
     {
       "id": 1,
@@ -116,6 +116,21 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/9-3.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/9-4.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/9-5.jpg"
+      ],
+      "visibility": "visible"
+    },
+    {
+      "id": 10,
+      "title": "Зима + подземный паркинг = отличное состояние машины и комфорт водителя.",
+      "preview": "И еще несколько весомых причин обеспечить ваш личный транспорт собственной “крышей над головой”.",
+      "text": "Согласитесь, это совершенно другие ощущения — спускаться к автомобилю на лифте, а не выходить на утренний мороз, просто сесть и поехать, а не счищать снег и наледь и долго прогревать мотор.\r\n<p>\r\nОб этих и других плюсах подземного паркинга в зимнее и любое другое время года мы рассказали на карточках.\r\n<p>\r\nА если вы тоже хотите приобрести машиноместо, позвоните по номеру: +7 (4822) 415-888\r",
+      "date": "2025-12-19T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/10-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/10-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/10-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/10-4.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/10-5.jpg"
       ],
       "visibility": "visible"
     }
