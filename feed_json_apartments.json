@@ -718,32 +718,6 @@
         }
       },
       {
-        "id": "14327915",
-        "building_id": "119958",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 36 секция 1, Секция 1, №74",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84f06b5.png",
-        "number": 74,
-        "entrance": 1,
-        "floor": 7,
-        "rooms": 1,
-        "square_meters": 43.07,
-        "price": "5635753",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "11.46"
-            }
-          ]
-        }
-      },
-      {
         "id": "14327923",
         "building_id": "119958",
         "complex_id": "34301",
@@ -2304,32 +2278,6 @@
         }
       },
       {
-        "id": "13631499",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 37 секция 3 и 4, Секция 4, №70",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35962cad91.jpg",
-        "number": 70,
-        "entrance": 4,
-        "floor": 15,
-        "rooms": 2,
-        "square_meters": 52.74,
-        "price": "6620558",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "25.69"
-            }
-          ]
-        }
-      },
-      {
         "id": "13631556",
         "building_id": "116963",
         "complex_id": "34301",
@@ -2408,32 +2356,6 @@
         }
       },
       {
-        "id": "13631572",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 37 секция 3 и 4, Секция 3, №143",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35940a853b.jpg",
-        "number": 143,
-        "entrance": 3,
-        "floor": 9,
-        "rooms": 2,
-        "square_meters": 54.55,
-        "price": "6760709",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "27.82"
-            }
-          ]
-        }
-      },
-      {
         "id": "13631578",
         "building_id": "116963",
         "complex_id": "34301",
@@ -2507,32 +2429,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "38.92"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13631612",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 37 секция 3 и 4, Секция 3, №183",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359249e7a2.jpg",
-        "number": 183,
-        "entrance": 3,
-        "floor": 16,
-        "rooms": 1,
-        "square_meters": 21.52,
-        "price": "3285243",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "12.16"
             }
           ]
         }
@@ -2668,19 +2564,19 @@
         }
       },
       {
-        "id": "13033763",
+        "id": "13033762",
         "building_id": "113085",
         "complex_id": "16754",
-        "title": "Южный, Дом 3 Секция 3, Секция 3, №5",
+        "title": "Южный, Дом 3 Секция 3, Секция 3, №4",
         "type": "apartment",
         "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e4a2ca4c.jpg",
-        "number": 5,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e46a9510.jpg",
+        "number": 4,
         "entrance": 3,
         "floor": 1,
         "rooms": 1,
-        "square_meters": 35.7,
-        "price": "5487911",
+        "square_meters": 40.3,
+        "price": "5466211",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2688,7 +2584,33 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": "12.8"
+              "value": "12.3"
+            }
+          ]
+        }
+      },
+      {
+        "id": "13033772",
+        "building_id": "113085",
+        "complex_id": "16754",
+        "title": "Южный, Дом 3 Секция 3, Секция 3, №14",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3c05630.jpg",
+        "number": 14,
+        "entrance": 3,
+        "floor": 2,
+        "rooms": 3,
+        "square_meters": 77.3,
+        "price": "8593441",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "39"
             }
           ]
         }
@@ -2871,32 +2793,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "39"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13033874",
-        "building_id": "113085",
-        "complex_id": "16754",
-        "title": "Южный, Дом 3 Секция 3, Секция 3, №116",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e492de70.jpg",
-        "number": 116,
-        "entrance": 3,
-        "floor": 11,
-        "rooms": 1,
-        "square_meters": 37.3,
-        "price": "5614844",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "16.4"
             }
           ]
         }
