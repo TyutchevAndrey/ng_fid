@@ -588,6 +588,32 @@
         }
       },
       {
+        "id": "14185275",
+        "building_id": "119310",
+        "complex_id": "47855",
+        "title": "ЖК ТОТ, Дом 1, Секция 3, №119",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fc6d8de2.jpg",
+        "number": 119,
+        "entrance": 3,
+        "floor": 7,
+        "rooms": 1,
+        "square_meters": 33.3,
+        "price": "5544084",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "12.2"
+            }
+          ]
+        }
+      },
+      {
         "id": "14185284",
         "building_id": "119310",
         "complex_id": "47855",
@@ -3183,6 +3209,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": "26.1"
+            }
+          ]
+        }
+      },
+      {
+        "id": "13640481",
+        "building_id": "117008",
+        "complex_id": "16754",
+        "title": "Южный, Дом 4 Секция 1, Секция 1, №76",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c6721f1.jpg",
+        "number": 76,
+        "entrance": 1,
+        "floor": 8,
+        "rooms": 1,
+        "square_meters": 37.3,
+        "price": "5694218",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "13.6"
             }
           ]
         }
