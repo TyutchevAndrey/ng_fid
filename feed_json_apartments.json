@@ -262,7 +262,7 @@
         "floor": 8,
         "rooms": 1,
         "square_meters": 30.7,
-        "price": "5617455",
+        "price": "5780749",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -288,7 +288,7 @@
         "floor": 9,
         "rooms": 2,
         "square_meters": 59.7,
-        "price": "8573935",
+        "price": "8700977",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -314,7 +314,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 30.7,
-        "price": "5633788",
+        "price": "5797081",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -340,7 +340,7 @@
         "floor": 5,
         "rooms": 3,
         "square_meters": 74.3,
-        "price": "9840812",
+        "price": "9998848",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -366,7 +366,7 @@
         "floor": 8,
         "rooms": 1,
         "square_meters": 39.5,
-        "price": "6303173",
+        "price": "6513313",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -392,7 +392,7 @@
         "floor": 8,
         "rooms": 3,
         "square_meters": 72.5,
-        "price": "9795185",
+        "price": "9949465",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -418,7 +418,7 @@
         "floor": 10,
         "rooms": 3,
         "square_meters": 72.5,
-        "price": "10373663",
+        "price": "10527943",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -444,7 +444,7 @@
         "floor": 12,
         "rooms": 2,
         "square_meters": 60.8,
-        "price": "8473210",
+        "price": "8602531",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -470,7 +470,7 @@
         "floor": 12,
         "rooms": 2,
         "square_meters": 52.6,
-        "price": "7638204",
+        "price": "7750084",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -496,7 +496,7 @@
         "floor": 3,
         "rooms": 2,
         "square_meters": 67,
-        "price": "9016458",
+        "price": "9159034",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -522,7 +522,7 @@
         "floor": 4,
         "rooms": 1,
         "square_meters": 34.9,
-        "price": "5606266",
+        "price": "5791899",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -548,7 +548,7 @@
         "floor": 5,
         "rooms": 1,
         "square_meters": 35.9,
-        "price": "5996054",
+        "price": "6187006",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -574,7 +574,7 @@
         "floor": 5,
         "rooms": 2,
         "square_meters": 67,
-        "price": "9087746",
+        "price": "9230322",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -600,7 +600,7 @@
         "floor": 8,
         "rooms": 1,
         "square_meters": 41.4,
-        "price": "6628388",
+        "price": "6848636",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -626,7 +626,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 37.2,
-        "price": "6232972",
+        "price": "6430838",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -652,7 +652,7 @@
         "floor": 10,
         "rooms": 1,
         "square_meters": 45.4,
-        "price": "7099788",
+        "price": "7341271",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -678,7 +678,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 35.7,
-        "price": "6057612",
+        "price": "6247500",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -704,7 +704,7 @@
         "floor": 8,
         "rooms": 2,
         "square_meters": 56.01,
-        "price": "6584144",
+        "price": "6703333",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -730,7 +730,7 @@
         "floor": 8,
         "rooms": 1,
         "square_meters": 22.55,
-        "price": "3406493",
+        "price": "3526437",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -756,7 +756,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 30.37,
-        "price": "4264738",
+        "price": "4426276",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -782,7 +782,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 32.72,
-        "price": "4594739",
+        "price": "4768776",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -808,7 +808,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 41.6,
-        "price": "5310656",
+        "price": "5531926",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -834,7 +834,7 @@
         "floor": 10,
         "rooms": 1,
         "square_meters": 43.07,
-        "price": "5887755",
+        "price": "6116844",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -843,32 +843,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "11.46"
-            }
-          ]
-        }
-      },
-      {
-        "id": "14327955",
-        "building_id": "119958",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 36 секция 1, Секция 1, №114",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b8465163.png",
-        "number": 114,
-        "entrance": 1,
-        "floor": 10,
-        "rooms": 2,
-        "square_meters": 51.83,
-        "price": "6589044",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "20.84"
             }
           ]
         }
@@ -886,7 +860,7 @@
         "floor": 10,
         "rooms": 1,
         "square_meters": 41.22,
-        "price": "5327891",
+        "price": "5547140",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -912,7 +886,7 @@
         "floor": 10,
         "rooms": 1,
         "square_meters": 35.23,
-        "price": "4684850",
+        "price": "4872239",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -938,7 +912,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 30.37,
-        "price": "4248581",
+        "price": "4410119",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -964,7 +938,7 @@
         "floor": 11,
         "rooms": 2,
         "square_meters": 51.83,
-        "price": "6616618",
+        "price": "6726860",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -990,7 +964,7 @@
         "floor": 12,
         "rooms": 1,
         "square_meters": 43.07,
-        "price": "5841929",
+        "price": "6071018",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1016,7 +990,7 @@
         "floor": 12,
         "rooms": 1,
         "square_meters": 33.13,
-        "price": "4458437",
+        "price": "4634688",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1042,7 +1016,7 @@
         "floor": 14,
         "rooms": 1,
         "square_meters": 21.38,
-        "price": "3297972",
+        "price": "3411692",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1068,7 +1042,7 @@
         "floor": 14,
         "rooms": 1,
         "square_meters": 35.24,
-        "price": "4479991",
+        "price": "4667432",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1094,7 +1068,7 @@
         "floor": 15,
         "rooms": 1,
         "square_meters": 32.72,
-        "price": "4420668",
+        "price": "4594739",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1120,7 +1094,7 @@
         "floor": 16,
         "rooms": 1,
         "square_meters": 33.13,
-        "price": "4564188",
+        "price": "4740406",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1146,7 +1120,7 @@
         "floor": 18,
         "rooms": 1,
         "square_meters": 41.6,
-        "price": "5554058",
+        "price": "5775328",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1172,7 +1146,7 @@
         "floor": 18,
         "rooms": 2,
         "square_meters": 56.01,
-        "price": "6941655",
+        "price": "7060845",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1181,32 +1155,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "25.21"
-            }
-          ]
-        }
-      },
-      {
-        "id": "14328056",
-        "building_id": "119958",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 36 секция 1, Секция 1, №215",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2ea851.png",
-        "number": 215,
-        "entrance": 1,
-        "floor": 18,
-        "rooms": 1,
-        "square_meters": 35.23,
-        "price": "4328781",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "15.24"
             }
           ]
         }
@@ -1224,7 +1172,7 @@
         "floor": 4,
         "rooms": 1,
         "square_meters": 48.18,
-        "price": "6432560",
+        "price": "6688829",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1250,7 +1198,7 @@
         "floor": 4,
         "rooms": 1,
         "square_meters": 35.65,
-        "price": "4911358",
+        "price": "5100980",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1276,7 +1224,7 @@
         "floor": 5,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8062048",
+        "price": "8216371",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1302,7 +1250,7 @@
         "floor": 7,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8332113",
+        "price": "8486363",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1328,7 +1276,7 @@
         "floor": 8,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8409202",
+        "price": "8563524",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1354,7 +1302,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 25.76,
-        "price": "3891409",
+        "price": "4028426",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1380,7 +1328,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 25.02,
-        "price": "3766311",
+        "price": "3899392",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1406,7 +1354,7 @@
         "floor": 9,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8486363",
+        "price": "8640685",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1432,7 +1380,7 @@
         "floor": 10,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8524944",
+        "price": "8679266",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1458,7 +1406,7 @@
         "floor": 11,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8447782",
+        "price": "8602105",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1484,7 +1432,7 @@
         "floor": 12,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8370694",
+        "price": "8524944",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1510,7 +1458,7 @@
         "floor": 13,
         "rooms": 1,
         "square_meters": 35.65,
-        "price": "5063049",
+        "price": "5252671",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1536,7 +1484,7 @@
         "floor": 13,
         "rooms": 1,
         "square_meters": 25.02,
-        "price": "3846149",
+        "price": "3979256",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1562,7 +1510,7 @@
         "floor": 13,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8216371",
+        "price": "8370694",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1588,7 +1536,7 @@
         "floor": 14,
         "rooms": 3,
         "square_meters": 72.52,
-        "price": "8177790",
+        "price": "8332113",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1614,7 +1562,7 @@
         "floor": 15,
         "rooms": 2,
         "square_meters": 63.61,
-        "price": "7612908",
+        "price": "7748270",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1640,7 +1588,7 @@
         "floor": 4,
         "rooms": 1,
         "square_meters": 26.19,
-        "price": "3928500",
+        "price": "4067805",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1666,7 +1614,7 @@
         "floor": 8,
         "rooms": 1,
         "square_meters": 28.6,
-        "price": "4213924",
+        "price": "4366076",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1692,7 +1640,7 @@
         "floor": 8,
         "rooms": 1,
         "square_meters": 30.52,
-        "price": "4659183",
+        "price": "4821519",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1718,7 +1666,7 @@
         "floor": 8,
         "rooms": 1,
         "square_meters": 32.9,
-        "price": "4812513",
+        "price": "4987508",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1744,7 +1692,7 @@
         "floor": 8,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": "8690018",
+        "price": "8843098",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1770,7 +1718,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 37.83,
-        "price": "5090934",
+        "price": "5292190",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1796,7 +1744,7 @@
         "floor": 9,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": "8766594",
+        "price": "8919674",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1822,7 +1770,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 26.19,
-        "price": "4137470",
+        "price": "4276775",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1848,7 +1796,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 28.6,
-        "price": "4229139",
+        "price": "4381263",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1874,7 +1822,7 @@
         "floor": 11,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": "8728306",
+        "price": "8881386",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1900,7 +1848,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 35.79,
-        "price": "4949685",
+        "price": "5140052",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1926,7 +1874,7 @@
         "floor": 12,
         "rooms": 1,
         "square_meters": 33.99,
-        "price": "5116583",
+        "price": "5297375",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1952,7 +1900,7 @@
         "floor": 12,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": "8651730",
+        "price": "8804810",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1978,7 +1926,7 @@
         "floor": 13,
         "rooms": 1,
         "square_meters": 35.79,
-        "price": "4835444",
+        "price": "5025847",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2004,7 +1952,7 @@
         "floor": 14,
         "rooms": 1,
         "square_meters": 40.23,
-        "price": "5734907",
+        "price": "5948891",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2030,7 +1978,7 @@
         "floor": 15,
         "rooms": 3,
         "square_meters": 71.97,
-        "price": "8383713",
+        "price": "8536865",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2056,7 +2004,7 @@
         "floor": 1,
         "rooms": 3,
         "square_meters": 69.66,
-        "price": "7781161",
+        "price": "7929398",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2082,7 +2030,7 @@
         "floor": 8,
         "rooms": 2,
         "square_meters": 52.74,
-        "price": "6901082",
+        "price": "7013312",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2108,7 +2056,7 @@
         "floor": 8,
         "rooms": 3,
         "square_meters": 69.66,
-        "price": "8225801",
+        "price": "8374038",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2134,7 +2082,7 @@
         "floor": 9,
         "rooms": 2,
         "square_meters": 53.36,
-        "price": "6840272",
+        "price": "6953822",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2160,7 +2108,7 @@
         "floor": 10,
         "rooms": 1,
         "square_meters": 31.03,
-        "price": "4538975",
+        "price": "4704024",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2186,7 +2134,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 35.46,
-        "price": "4847453",
+        "price": "5036065",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2212,7 +2160,7 @@
         "floor": 12,
         "rooms": 1,
         "square_meters": 31.03,
-        "price": "4472943",
+        "price": "4637992",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2238,7 +2186,7 @@
         "floor": 14,
         "rooms": 2,
         "square_meters": 52.74,
-        "price": "6732788",
+        "price": "6844966",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2264,7 +2212,7 @@
         "floor": 7,
         "rooms": 3,
         "square_meters": 72.2,
-        "price": "8141705",
+        "price": "8295347",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2290,7 +2238,7 @@
         "floor": 8,
         "rooms": 2,
         "square_meters": 66.46,
-        "price": "7600499",
+        "price": "7741859",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2316,7 +2264,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 33.06,
-        "price": "4554544",
+        "price": "4730390",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2342,7 +2290,7 @@
         "floor": 10,
         "rooms": 2,
         "square_meters": 54.55,
-        "price": "6847771",
+        "price": "6963853",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2368,7 +2316,7 @@
         "floor": 14,
         "rooms": 2,
         "square_meters": 66.46,
-        "price": "7388358",
+        "price": "7529785",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2420,7 +2368,7 @@
         "floor": 16,
         "rooms": 3,
         "square_meters": 72.2,
-        "price": "7757673",
+        "price": "7911243",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2446,7 +2394,7 @@
         "floor": 16,
         "rooms": 1,
         "square_meters": 32.42,
-        "price": "4690558",
+        "price": "4863000",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2472,7 +2420,7 @@
         "floor": 17,
         "rooms": 3,
         "square_meters": 72.2,
-        "price": "7680853",
+        "price": "7834494",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2498,7 +2446,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 46.2,
-        "price": "5971581",
+        "price": "6217319",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2524,7 +2472,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 46.7,
-        "price": "6036209",
+        "price": "6284606",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2550,7 +2498,7 @@
         "floor": 1,
         "rooms": 3,
         "square_meters": 77.9,
-        "price": "8535893",
+        "price": "8701586",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2576,7 +2524,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 35.7,
-        "price": "5487911",
+        "price": "5677835",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2602,59 +2550,7 @@
         "floor": 2,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": "8593441",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "39"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13033846",
-        "building_id": "113085",
-        "complex_id": "16754",
-        "title": "Южный, Дом 3 Секция 3, Секция 3, №88",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e4c3db4e.jpg",
-        "number": 88,
-        "entrance": 3,
-        "floor": 9,
-        "rooms": 1,
-        "square_meters": 23.9,
-        "price": "4068091",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "14.7"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13033849",
-        "building_id": "113085",
-        "complex_id": "16754",
-        "title": "Южный, Дом 3 Секция 3, Секция 3, №91",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3c05630.jpg",
-        "number": 91,
-        "entrance": 3,
-        "floor": 9,
-        "rooms": 3,
-        "square_meters": 77.3,
-        "price": "8963554",
+        "price": "8757935",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2680,7 +2576,7 @@
         "floor": 9,
         "rooms": 2,
         "square_meters": 57.4,
-        "price": "7938305",
+        "price": "8060452",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2706,7 +2602,7 @@
         "floor": 10,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": "9004677",
+        "price": "9169094",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2732,7 +2628,7 @@
         "floor": 10,
         "rooms": 2,
         "square_meters": 59.7,
-        "price": "8669216",
+        "price": "8796198",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2758,7 +2654,7 @@
         "floor": 11,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": "9045801",
+        "price": "9210218",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2767,6 +2663,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": "39"
+            }
+          ]
+        }
+      },
+      {
+        "id": "13033881",
+        "building_id": "113085",
+        "complex_id": "16754",
+        "title": "Южный, Дом 3 Секция 3, Секция 3, №123",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e4147f42.jpg",
+        "number": 123,
+        "entrance": 3,
+        "floor": 12,
+        "rooms": 1,
+        "square_meters": 45.9,
+        "price": "6299041",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "17.5"
             }
           ]
         }
@@ -2784,7 +2706,7 @@
         "floor": 12,
         "rooms": 2,
         "square_meters": 57.4,
-        "price": "8029916",
+        "price": "8152005",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2810,7 +2732,7 @@
         "floor": 14,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": "9251342",
+        "price": "9415836",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2836,7 +2758,7 @@
         "floor": 15,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": "9292465",
+        "price": "9456882",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2862,7 +2784,7 @@
         "floor": 16,
         "rooms": 3,
         "square_meters": 77.3,
-        "price": "9333589",
+        "price": "9498006",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2888,7 +2810,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 38,
-        "price": "5477662",
+        "price": "5679784",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2914,7 +2836,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 39.6,
-        "price": "5581897",
+        "price": "5792569",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2940,7 +2862,7 @@
         "floor": 1,
         "rooms": 3,
         "square_meters": 80.7,
-        "price": "10044568",
+        "price": "10216297",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2966,7 +2888,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 39.3,
-        "price": "5560518",
+        "price": "5769594",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -2992,7 +2914,7 @@
         "floor": 1,
         "rooms": 2,
         "square_meters": 63.6,
-        "price": "8254453",
+        "price": "8389794",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3018,7 +2940,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": "5475976",
+        "price": "5674374",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3044,7 +2966,7 @@
         "floor": 1,
         "rooms": 2,
         "square_meters": 63,
-        "price": "8109549",
+        "price": "8243613",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3070,7 +2992,7 @@
         "floor": 2,
         "rooms": 3,
         "square_meters": 79.6,
-        "price": "10034694",
+        "price": "10204004",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3096,7 +3018,7 @@
         "floor": 2,
         "rooms": 2,
         "square_meters": 68.6,
-        "price": "8757476",
+        "price": "8903388",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3122,7 +3044,7 @@
         "floor": 2,
         "rooms": 2,
         "square_meters": 61.8,
-        "price": "8053714",
+        "price": "8185225",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3131,6 +3053,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": "28.7"
+            }
+          ]
+        }
+      },
+      {
+        "id": "13640435",
+        "building_id": "117008",
+        "complex_id": "16754",
+        "title": "Южный, Дом 4 Секция 1, Секция 1, №30",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d744a582190.jpg",
+        "number": 30,
+        "entrance": 1,
+        "floor": 4,
+        "rooms": 1,
+        "square_meters": 37.9,
+        "price": "5685000",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "10.7"
             }
           ]
         }
@@ -3148,7 +3096,7 @@
         "floor": 4,
         "rooms": 2,
         "square_meters": 62,
-        "price": "8145746",
+        "price": "8277682",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3174,7 +3122,7 @@
         "floor": 7,
         "rooms": 1,
         "square_meters": 38.8,
-        "price": "5675548",
+        "price": "5881925",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3200,7 +3148,7 @@
         "floor": 8,
         "rooms": 2,
         "square_meters": 68.6,
-        "price": "9049369",
+        "price": "9195350",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3226,7 +3174,7 @@
         "floor": 8,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": "5694218",
+        "price": "5892617",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3252,7 +3200,7 @@
         "floor": 9,
         "rooms": 2,
         "square_meters": 68.6,
-        "price": "9085864",
+        "price": "9231776",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3278,7 +3226,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": "5714024",
+        "price": "5912460",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3304,7 +3252,7 @@
         "floor": 10,
         "rooms": 3,
         "square_meters": 79.6,
-        "price": "10458087",
+        "price": "10627476",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3330,7 +3278,7 @@
         "floor": 10,
         "rooms": 2,
         "square_meters": 63,
-        "price": "8612226",
+        "price": "8746290",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3356,7 +3304,7 @@
         "floor": 12,
         "rooms": 1,
         "square_meters": 38.8,
-        "price": "5778717",
+        "price": "5985094",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3382,7 +3330,7 @@
         "floor": 13,
         "rooms": 1,
         "square_meters": 37.6,
-        "price": "5779985",
+        "price": "5980017",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3408,7 +3356,7 @@
         "floor": 13,
         "rooms": 3,
         "square_meters": 79.6,
-        "price": "10669823",
+        "price": "10839132",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3434,7 +3382,7 @@
         "floor": 13,
         "rooms": 2,
         "square_meters": 55.1,
-        "price": "7913297",
+        "price": "8030550",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3460,7 +3408,7 @@
         "floor": 14,
         "rooms": 2,
         "square_meters": 63,
-        "price": "8813322",
+        "price": "8947323",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3486,7 +3434,7 @@
         "floor": 15,
         "rooms": 2,
         "square_meters": 63,
-        "price": "8846838",
+        "price": "8980839",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3512,7 +3460,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 48.2,
-        "price": "6383945",
+        "price": "6640321",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3538,7 +3486,7 @@
         "floor": 1,
         "rooms": 2,
         "square_meters": 78.4,
-        "price": "9341282",
+        "price": "9508117",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3564,7 +3512,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 47.9,
-        "price": "6191315",
+        "price": "6446095",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3590,7 +3538,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": "5297383",
+        "price": "5495782",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3616,7 +3564,7 @@
         "floor": 1,
         "rooms": 2,
         "square_meters": 55.1,
-        "price": "7327143",
+        "price": "7444341",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3642,7 +3590,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.6,
-        "price": "5299983",
+        "price": "5500015",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3668,7 +3616,7 @@
         "floor": 1,
         "rooms": 2,
         "square_meters": 70.8,
-        "price": "8887666",
+        "price": "9038328",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3694,7 +3642,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 27.8,
-        "price": "4243948",
+        "price": "4391816",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3720,7 +3668,7 @@
         "floor": 2,
         "rooms": 2,
         "square_meters": 77.6,
-        "price": "9369812",
+        "price": "9534867",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3746,7 +3694,7 @@
         "floor": 2,
         "rooms": 2,
         "square_meters": 69.9,
-        "price": "8886247",
+        "price": "9034925",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3772,7 +3720,7 @@
         "floor": 2,
         "rooms": 1,
         "square_meters": 39.2,
-        "price": "5400427",
+        "price": "5608932",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3798,7 +3746,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 41.8,
-        "price": "6025428",
+        "price": "6247762",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3824,7 +3772,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 47.8,
-        "price": "6686933",
+        "price": "6941181",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3850,7 +3798,7 @@
         "floor": 11,
         "rooms": 2,
         "square_meters": 77.6,
-        "price": "9823850",
+        "price": "9988905",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3876,7 +3824,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 47.3,
-        "price": "6466005",
+        "price": "6717593",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3902,7 +3850,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": "5575156",
+        "price": "5773555",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3928,7 +3876,7 @@
         "floor": 11,
         "rooms": 2,
         "square_meters": 55.6,
-        "price": "7807686",
+        "price": "7925947",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3954,7 +3902,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 38.2,
-        "price": "5872219",
+        "price": "6075443",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -3980,7 +3928,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 37.6,
-        "price": "5579990",
+        "price": "5779985",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4006,7 +3954,7 @@
         "floor": 11,
         "rooms": 2,
         "square_meters": 69.9,
-        "price": "9295232",
+        "price": "9443909",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4032,7 +3980,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 27.8,
-        "price": "4450947",
+        "price": "4598843",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -4058,7 +4006,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 39.2,
-        "price": "5629786",
+        "price": "5838291",
         "options": {
           "is_booked": false,
           "old_price": null,
