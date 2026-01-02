@@ -3760,6 +3760,32 @@
         }
       },
       {
+        "id": "13640521",
+        "building_id": "117008",
+        "complex_id": "16754",
+        "title": "Южный, Дом 4 Секция 1, Секция 1, №116",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c6721f1.jpg",
+        "number": 116,
+        "entrance": 1,
+        "floor": 12,
+        "rooms": 1,
+        "square_meters": 37.3,
+        "price": "5773555",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "13.6"
+            }
+          ]
+        }
+      },
+      {
         "id": "13640525",
         "building_id": "117008",
         "complex_id": "16754",
