@@ -1004,32 +1004,6 @@
         }
       },
       {
-        "id": "14327961",
-        "building_id": "119958",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 36 секция 1, Секция 1, №120",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc443059.png",
-        "number": 120,
-        "entrance": 1,
-        "floor": 11,
-        "rooms": 1,
-        "square_meters": 30.37,
-        "price": "4410119",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "23.38"
-            }
-          ]
-        }
-      },
-      {
         "id": "14327967",
         "building_id": "119958",
         "complex_id": "34301",
