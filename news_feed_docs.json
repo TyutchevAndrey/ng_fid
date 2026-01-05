@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-04T06:00:41.656Z",
+  "updated_at": "2026-01-05T06:00:41.518Z",
   "news": [
     {
       "id": 1,
@@ -160,7 +160,7 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/12-3.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/12-4.jpg"
       ],
-      "visibility": "hidden"
+      "visibility": "visible"
     }
   ]
 }
