@@ -484,32 +484,6 @@
         }
       },
       {
-        "id": "14185257",
-        "building_id": "119310",
-        "complex_id": "47855",
-        "title": "ЖК ТОТ, Дом 1, Секция 3, №101",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fc8758d1.jpg",
-        "number": 101,
-        "entrance": 3,
-        "floor": 4,
-        "rooms": 1,
-        "square_meters": 34.9,
-        "price": "5977567",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "12.2"
-            }
-          ]
-        }
-      },
-      {
         "id": "14185267",
         "building_id": "119310",
         "complex_id": "47855",
@@ -2377,32 +2351,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "22.71"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13631499",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 37 секция 3 и 4, Секция 4, №70",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35962cad91.jpg",
-        "number": 70,
-        "entrance": 4,
-        "floor": 15,
-        "rooms": 2,
-        "square_meters": 52.74,
-        "price": "6620558",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "25.69"
             }
           ]
         }
