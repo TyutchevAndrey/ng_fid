@@ -2486,32 +2486,6 @@
         }
       },
       {
-        "id": "13631600",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Дом 37 секция 3 и 4, Секция 3, №171",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359249e7a2.jpg",
-        "number": 171,
-        "entrance": 3,
-        "floor": 14,
-        "rooms": 1,
-        "square_meters": 21.52,
-        "price": "3308119",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "12.16"
-            }
-          ]
-        }
-      },
-      {
         "id": "13631610",
         "building_id": "116963",
         "complex_id": "34301",
