@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-16T06:01:01.594Z",
+  "updated_at": "2026-01-16T07:52:13.627Z",
   "news": [
     {
       "id": 1,
@@ -168,7 +168,13 @@
       "preview": "Ждать снижения ключевой ставки уже нет времени",
       "text": "Семейная ипотека не будет вечной — условия по программе меняются и ужесточаются уже сейчас. Одно из них вступит в силу уже 1 февраля и лишит многие семьи возможности купить жилье с льготной ставкой 3,5%.\r\n<p>\r\nПодробности рассказали в карточках. \r\nЗвоните и бронируйте жилье уже сейчас, чтобы успеть записаться на сделку: \r\n+7 (4822) 415-888",
       "date": "2026-01-14T09:00:00.000Z",
-      "images": [],
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/13-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/13-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/13-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/13-4.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/13-5.jpg"
+      ],
       "visibility": "visible"
     }
   ]
