@@ -3058,32 +3058,6 @@
         }
       },
       {
-        "id": "13640521",
-        "building_id": "117008",
-        "complex_id": "16754",
-        "title": "Южный, Дом 4 Секция 1, Секция 1, №116",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c6721f1.jpg",
-        "number": 116,
-        "entrance": 1,
-        "floor": 12,
-        "rooms": 1,
-        "square_meters": 37.3,
-        "price": "5773555",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "13.6"
-            }
-          ]
-        }
-      },
-      {
         "id": "13640527",
         "building_id": "117008",
         "complex_id": "16754",
@@ -3495,32 +3469,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "15.3"
-            }
-          ]
-        }
-      },
-      {
-        "id": "14847863",
-        "building_id": "123511",
-        "complex_id": "16754",
-        "title": "Южный, Дом 4 Секция 2, Секция 2, №174",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277be70a35.jpg",
-        "number": 174,
-        "entrance": 2,
-        "floor": 3,
-        "rooms": 1,
-        "square_meters": 47.3,
-        "price": "6466005",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "18.7"
             }
           ]
         }
