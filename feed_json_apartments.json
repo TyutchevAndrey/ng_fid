@@ -692,32 +692,6 @@
         }
       },
       {
-        "id": "14327870",
-        "building_id": "119958",
-        "complex_id": "34301",
-        "title": "Есенинские поля, ЕП 36-1, Секция 1, №29",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b84073c6.png",
-        "number": 29,
-        "entrance": 1,
-        "floor": 3,
-        "rooms": 2,
-        "square_meters": 56.01,
-        "price": "6613941",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "25.21"
-            }
-          ]
-        }
-      },
-      {
         "id": "14327930",
         "building_id": "119958",
         "complex_id": "34301",
@@ -2174,6 +2148,32 @@
         }
       },
       {
+        "id": "13631522",
+        "building_id": "116963",
+        "complex_id": "34301",
+        "title": "Есенинские поля, ЕП 37 3-4, Секция 3, №93",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359249e7a2.jpg",
+        "number": 93,
+        "entrance": 3,
+        "floor": 1,
+        "rooms": 1,
+        "square_meters": 21.52,
+        "price": "3205103",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "12.16"
+            }
+          ]
+        }
+      },
+      {
         "id": "13631556",
         "building_id": "116963",
         "complex_id": "34301",
@@ -2195,32 +2195,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "38.92"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13631563",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, ЕП 37 3-4, Секция 3, №134",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35941c0e6b.jpg",
-        "number": 134,
-        "entrance": 3,
-        "floor": 8,
-        "rooms": 2,
-        "square_meters": 66.46,
-        "price": "7741859",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "31.99"
             }
           ]
         }
