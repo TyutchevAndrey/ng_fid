@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T06:00:27.053Z",
+  "updated_at": "2026-02-06T06:00:21.231Z",
   "news": [
     {
       "id": 1,
@@ -201,6 +201,21 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/15-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/15-3.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/15-4.jpg"
+      ],
+      "visibility": "visible"
+    },
+    {
+      "id": 16,
+      "title": "Семейная ипотека 2026",
+      "preview": "Собрали для вас короткий гайд по всем основным изменениям",
+      "text": "С 1 февраля семейная ипотека продолжает действовать, но с обновленными условиями. \r\n<p>\r\nПрограмма по-прежнему остаётся одним из самых доступных способов приобрести собственное жильё, а ставки и льготные механизмы сейчас сохранены. \r\n<p>\r\nНа что стоит обратить внимание, если вы планируете покупку квартиры, рассказываем в карточках.",
+      "date": "2026-02-06T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/16-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/16-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/16-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/16-4.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/16-5.jpg"
       ],
       "visibility": "visible"
     }
