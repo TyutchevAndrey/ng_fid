@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-13T06:00:35.587Z",
+  "updated_at": "2026-02-13T06:50:11.365Z",
   "news": [
     {
       "id": 1,
@@ -225,7 +225,15 @@
       "preview": "Рассказываем, что появится во дворе дома №4 в ЖК «‎Южный» уже этим летом.",
       "text": "Весна совсем скоро — самое время помечтать о долгих прогулках на улице солнечными днями.\r\n<p>\r\nА мы уже готовимся к летнему сезону. Именно зимой мы создаем проекты благоустройства, заказываем оборудование и составляем планы работ по монтажу, чтобы летом всё было готово.\r\n<p>\r\nИ сегодня рассказываем о том, как преобразится двор дома №4 в ЖК «‎Южный» — листайте карточки и давайте ждать лета вместе.",
       "date": "2026-02-13T09:00:00.000Z",
-      "images": [],
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/17-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/17-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/17-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/17-4.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/17-5.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/17-6.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/17-7.jpg"
+      ],
       "visibility": "visible"
     }
   ]
