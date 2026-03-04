@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-04T06:00:34.034Z",
+  "updated_at": "2026-03-04T14:10:28.597Z",
   "news": [
     {
       "id": 1,
@@ -261,6 +261,20 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/19-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/19-3.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/19-4.jpg"
+      ],
+      "visibility": "visible"
+    },
+    {
+      "id": 20,
+      "title": "Новый закон о рассрочке",
+      "preview": "Как теперь будет работать программа",
+      "text": "Уже с 1 апреля период рассрочки сократят до 6 месяцев вместо максимально возможных сейчас 18. А значит приобрести жилье без переплаты по ипотеке станет сложнее. О том, чем еще грозят новые изменения, а также о плюсах длительной рассрочки рассказали на карточках.\r\n<p>\r\nЕсли вы планировали воспользоваться программой, успейте сделать это до 1 апреля, чтобы зафиксировать пока еще доступные выгодные условия. \r\n<p>\r\nЗапишитесь на индивидуальную консультацию по телефону: +7 (4822) 415-888\r",
+      "date": "2026-03-04T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/20-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/20-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/20-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/20-4.jpg"
       ],
       "visibility": "visible"
     }
