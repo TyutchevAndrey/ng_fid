@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T06:00:32.133Z",
+  "updated_at": "2026-03-23T07:03:26.365Z",
   "news": [
     {
       "id": 1,
@@ -289,7 +289,7 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/21-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/21-3.jpg"
       ],
-      "visibility": "hidden"
+      "visibility": "visible"
     },
     {
       "id": 22,
@@ -297,8 +297,13 @@
       "preview": "Простой и быстрый способ",
       "text": "Обменяйте старое жилье на новое в наших кварталах и получите возможность сдавать сдавать его в 2 раза дороже. Обмен не займет много времени, а все формальности мы возьмем на себя. \r\n<p>\r\nПодробности рассказали на карточках. Звоните и узнайте, сколько стоит ваша квартира: +7 (4822) 415-888\r",
       "date": "2026-03-18T09:00:00.000Z",
-      "images": [],
-      "visibility": "hidden"
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/22-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/22-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/22-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/22-4.jpg"
+      ],
+      "visibility": "visible"
     }
   ]
 }
