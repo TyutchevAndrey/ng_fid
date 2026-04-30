@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T06:00:34.348Z",
+  "updated_at": "2026-04-30T14:22:12.149Z",
   "news": [
     {
       "id": 1,
@@ -371,15 +371,20 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/27-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/27-3.jpg"
       ],
-      "visibility": "hidden"
+      "visibility": "visible"
     },
     {
-      "id": 0,
-      "title": "",
-      "preview": "",
-      "text": "",
-      "date": "2026-04-27T09:00:00.000Z",
-      "images": [],
+      "id": 28,
+      "title": "Майский максимум",
+      "preview": "Майские, которые выгодно провести в отделе продаж ",
+      "text": "Такой акции ещё не было: покупайте квартиру со скидкой — и участвуйте в розыгрыше дополнительного бонуса от застройщика. \r\n\r\nВсе подробности рассказали в карточках.\r\n\r\nЖдем вас в офисе продаж уже завтра!\r",
+      "date": "2026-04-30T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/28-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/28-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/28-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/28-4.jpg"
+      ],
       "visibility": "visible"
     }
   ]
