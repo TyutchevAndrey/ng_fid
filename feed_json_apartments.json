@@ -354,32 +354,6 @@
         }
       },
       {
-        "id": "14185233",
-        "building_id": "119310",
-        "complex_id": "47855",
-        "title": "ЖК ТОТ, ТОТ 1, Секция 2, №77",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": null,
-        "number": 77,
-        "entrance": 2,
-        "floor": 10,
-        "rooms": 2,
-        "square_meters": 62.5,
-        "price": "8809813",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "24.2"
-            }
-          ]
-        }
-      },
-      {
         "id": "14185234",
         "building_id": "119310",
         "complex_id": "47855",
@@ -2148,32 +2122,6 @@
         }
       },
       {
-        "id": "13631602",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 37 3-4, Секция 3, №173",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35940a853b.jpg",
-        "number": 173,
-        "entrance": 3,
-        "floor": 14,
-        "rooms": 2,
-        "square_meters": 54.55,
-        "price": "7137922",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "27.82"
-            }
-          ]
-        }
-      },
-      {
         "id": "13631613",
         "building_id": "116963",
         "complex_id": "34301",
@@ -2369,32 +2317,6 @@
         "rooms": 3,
         "square_meters": 76.7,
         "price": "9342750",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "38.6"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13033915",
-        "building_id": "113085",
-        "complex_id": "16754",
-        "title": "Южный, Южный 3-3, Секция 3, №157",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e3c05630.jpg",
-        "number": 157,
-        "entrance": 3,
-        "floor": 15,
-        "rooms": 3,
-        "square_meters": 76.7,
-        "price": "9383478",
         "options": {
           "is_booked": false,
           "old_price": null,
