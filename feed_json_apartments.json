@@ -510,32 +510,6 @@
         }
       },
       {
-        "id": "14185284",
-        "building_id": "119310",
-        "complex_id": "47855",
-        "title": "ЖК ТОТ, ТОТ 1, Секция 3, №128",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fde77bd7.jpg",
-        "number": 128,
-        "entrance": 3,
-        "floor": 8,
-        "rooms": 1,
-        "square_meters": 41.4,
-        "price": "6848636",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "12.3"
-            }
-          ]
-        }
-      },
-      {
         "id": "14185289",
         "building_id": "119310",
         "complex_id": "47855",
@@ -886,7 +860,7 @@
         "floor": 12,
         "rooms": 1,
         "square_meters": 22.55,
-        "price": "3658377",
+        "price": "3730356",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1259,32 +1233,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "14.1"
-            }
-          ]
-        }
-      },
-      {
-        "id": "12828081",
-        "building_id": "111814",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 37 1-2, Секция 1, №455",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772de2297.jpg",
-        "number": 455,
-        "entrance": 1,
-        "floor": 4,
-        "rooms": 1,
-        "square_meters": 35.5,
-        "price": "5400544",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "10.3"
             }
           ]
         }
@@ -1753,6 +1701,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": "45.3"
+            }
+          ]
+        }
+      },
+      {
+        "id": "12828350",
+        "building_id": "111814",
+        "complex_id": "34301",
+        "title": "Есенинские поля, Есенинские поля 37 1-2, Секция 2, №365",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d62ed694.jpg",
+        "number": 365,
+        "entrance": 2,
+        "floor": 13,
+        "rooms": 1,
+        "square_meters": 34.9,
+        "price": "5197866",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "10.1"
             }
           ]
         }
@@ -2642,32 +2616,6 @@
         }
       },
       {
-        "id": "13640511",
-        "building_id": "117008",
-        "complex_id": "16754",
-        "title": "Южный, Южный 4-1, Секция 1, №106",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3c6721f1.jpg",
-        "number": 106,
-        "entrance": 1,
-        "floor": 11,
-        "rooms": 1,
-        "square_meters": 37.3,
-        "price": "6031485",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "13.6"
-            }
-          ]
-        }
-      },
-      {
         "id": "13640512",
         "building_id": "117008",
         "complex_id": "16754",
@@ -2845,6 +2793,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": "25.3"
+            }
+          ]
+        }
+      },
+      {
+        "id": "14847839",
+        "building_id": "123511",
+        "complex_id": "16754",
+        "title": "Южный, Южный 4-2, Секция 2, №150",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277bf08b09.jpg",
+        "number": 150,
+        "entrance": 2,
+        "floor": 1,
+        "rooms": 1,
+        "square_meters": 42.2,
+        "price": "6083088",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "11.1"
             }
           ]
         }
