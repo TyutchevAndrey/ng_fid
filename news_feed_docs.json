@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T06:01:01.385Z",
+  "updated_at": "2026-05-13T13:06:38.977Z",
   "news": [
     {
       "id": 1,
@@ -399,6 +399,20 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/29-3.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/29-4.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/29-5.jpg"
+      ],
+      "visibility": "visible"
+    },
+    {
+      "id": 33,
+      "title": "Старт продаж в ЖК Южный\r",
+      "preview": "Семейные квартиры в ипотеку от 3,5%",
+      "text": "Еще один квартал, в котором стартовали продажи — ЖК Южный. Сейчас здесь большой выбор семейных квартир по минимальной стоимости и с широким выбором планировок. Некоторые из них показали на карточках.\n<p>\nУспейте забронировать лучший вариант по низкой цене. Звоните: +7 (4822) 415-888\n",
+      "date": "2026-05-12T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/30-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/30-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/30-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/30-4.jpg"
       ],
       "visibility": "visible"
     }
