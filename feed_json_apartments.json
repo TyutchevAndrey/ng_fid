@@ -782,7 +782,7 @@
         "floor": 13,
         "rooms": 1,
         "square_meters": 33.13,
-        "price": "4758031",
+        "price": "4828532",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -869,6 +869,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": "10.23"
+            }
+          ]
+        }
+      },
+      {
+        "id": "14328001",
+        "building_id": "119958",
+        "complex_id": "34301",
+        "title": "Есенинские поля, Есенинские поля 36-1, Секция 1, №160",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc3a328c.png",
+        "number": 160,
+        "entrance": 1,
+        "floor": 14,
+        "rooms": 1,
+        "square_meters": 33.13,
+        "price": "4846157",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "14.13"
             }
           ]
         }
@@ -1056,32 +1082,6 @@
         }
       },
       {
-        "id": "12828079",
-        "building_id": "111814",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 37 1-2, Секция 1, №453",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772c9ec73.jpg",
-        "number": 453,
-        "entrance": 1,
-        "floor": 4,
-        "rooms": 1,
-        "square_meters": 47.3,
-        "price": "6893739",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "14.1"
-            }
-          ]
-        }
-      },
-      {
         "id": "12828112",
         "building_id": "111814",
         "complex_id": "34301",
@@ -1103,32 +1103,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "32.7"
-            }
-          ]
-        }
-      },
-      {
-        "id": "12828118",
-        "building_id": "111814",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 37 1-2, Секция 1, №492",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772eda2af.jpg",
-        "number": 492,
-        "entrance": 1,
-        "floor": 9,
-        "rooms": 1,
-        "square_meters": 24.2,
-        "price": "3900314",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "12.9"
             }
           ]
         }
@@ -1233,32 +1207,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "10.3"
-            }
-          ]
-        }
-      },
-      {
-        "id": "12828157",
-        "building_id": "111814",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 37 1-2, Секция 1, №531",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772b61873.jpg",
-        "number": 531,
-        "entrance": 1,
-        "floor": 15,
-        "rooms": 2,
-        "square_meters": 62.2,
-        "price": "7609548",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "32.2"
             }
           ]
         }
