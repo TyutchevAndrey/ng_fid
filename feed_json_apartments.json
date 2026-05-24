@@ -458,6 +458,32 @@
         }
       },
       {
+        "id": "14185289",
+        "building_id": "119310",
+        "complex_id": "47855",
+        "title": "ЖК ТОТ, ТОТ 1, Секция 3, №133",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fcf177cd.jpg",
+        "number": 133,
+        "entrance": 3,
+        "floor": 9,
+        "rooms": 1,
+        "square_meters": 37.2,
+        "price": "6430838",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "12.7"
+            }
+          ]
+        }
+      },
+      {
         "id": "14185295",
         "building_id": "119310",
         "complex_id": "47855",
@@ -765,32 +791,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "14.39"
-            }
-          ]
-        }
-      },
-      {
-        "id": "14327982",
-        "building_id": "119958",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 36-1, Секция 1, №141",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b859a4cb.png",
-        "number": 141,
-        "entrance": 1,
-        "floor": 12,
-        "rooms": 1,
-        "square_meters": 41.22,
-        "price": "5634856",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "15.2"
             }
           ]
         }
@@ -1290,6 +1290,32 @@
         }
       },
       {
+        "id": "12828157",
+        "building_id": "111814",
+        "complex_id": "34301",
+        "title": "Есенинские поля, Есенинские поля 37 1-2, Секция 1, №531",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772b61873.jpg",
+        "number": 531,
+        "entrance": 1,
+        "floor": 15,
+        "rooms": 2,
+        "square_meters": 62.2,
+        "price": "7609548",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "32.2"
+            }
+          ]
+        }
+      },
+      {
         "id": "12828276",
         "building_id": "111814",
         "complex_id": "34301",
@@ -1654,6 +1680,32 @@
         }
       },
       {
+        "id": "13631474",
+        "building_id": "116963",
+        "complex_id": "34301",
+        "title": "Есенинские поля, Есенинские поля 37 3-4, Секция 4, №45",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d35962cad91.jpg",
+        "number": 45,
+        "entrance": 4,
+        "floor": 10,
+        "rooms": 2,
+        "square_meters": 52.74,
+        "price": "7378010",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "25.69"
+            }
+          ]
+        }
+      },
+      {
         "id": "13631480",
         "building_id": "116963",
         "complex_id": "34301",
@@ -1805,32 +1857,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "31.99"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13631586",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 37 3-4, Секция 3, №157",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d359432b54e.jpg",
-        "number": 157,
-        "entrance": 3,
-        "floor": 12,
-        "rooms": 3,
-        "square_meters": 72.2,
-        "price": "8487327",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "38.92"
             }
           ]
         }
