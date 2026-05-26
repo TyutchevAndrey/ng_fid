@@ -458,19 +458,19 @@
         }
       },
       {
-        "id": "14185289",
+        "id": "14185294",
         "building_id": "119310",
         "complex_id": "47855",
-        "title": "ЖК ТОТ, ТОТ 1, Секция 3, №133",
+        "title": "ЖК ТОТ, ТОТ 1, Секция 3, №138",
         "type": "apartment",
         "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473fcf177cd.jpg",
-        "number": 133,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/6647400d4f101.jpg",
+        "number": 138,
         "entrance": 3,
-        "floor": 9,
-        "rooms": 1,
-        "square_meters": 37.2,
-        "price": "6430838",
+        "floor": 10,
+        "rooms": 2,
+        "square_meters": 52.4,
+        "price": "7692792",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -478,7 +478,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": "12.7"
+              "value": "22.2"
             }
           ]
         }
