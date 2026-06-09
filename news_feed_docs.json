@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T06:01:21.268Z",
+  "updated_at": "2026-06-09T11:46:36.408Z",
   "news": [
     {
       "id": 1,
@@ -455,6 +455,19 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/36-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/36-3.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/36-4.jpg"
+      ],
+      "visibility": "visible"
+    },
+    {
+      "id": 37,
+      "title": "Семейная ипотека может вырасти до 12% уже с 1 июля.\n",
+      "preview": "Как будет работать программа и что делать сейчас?",
+      "text": "Вам доступна семейная ипотека и вы планировали купить квартиру в Новом городе? Успейте сделать это до конца месяца и зафиксировать ставку 3,5% на весь срок, ведь с 1 июля она может вырасти до 12%.\r\n<p>\r\nУзнайте подробности и запишитесь на бесплатный подбор квартиры у вашего персонального менеджера или по телефону +7 (4822) 415-888 \r",
+      "date": "2026-06-09T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/37-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/37-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/37-3.jpg"
       ],
       "visibility": "visible"
     }
