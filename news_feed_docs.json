@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T06:00:59.577Z",
+  "updated_at": "2026-06-22T08:34:32.599Z",
   "news": [
     {
       "id": 1,
@@ -482,6 +482,19 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/38-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/38-3.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/38-4.jpg"
+      ],
+      "visibility": "visible"
+    },
+    {
+      "id": 39,
+      "title": "Добро пожаловать в Клуб привилегий!",
+      "preview": "Заботимся о настоящих и будущих жителях",
+      "text": "Каждый покупатель квартиры в жилых комплексах ГК «Новый Город» автоматически становится участником Клуба привилегий и получает эксклюзивные условия и подарки от наших партнеров.\n<p>\nКлуб привилегий – это:\n- Экономия бюджета благодаря специальным предложениям, бонусам и скидкам\n- Самые нужные товары и услуги для всей семьи\n- Гарантированное качество от лидеров отрасли\n<p>\nУзнайте больше на нашем сайте или по телефону: +7 (4822) 415-888\n",
+      "date": "2026-06-22T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/39-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/39-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/39-3.jpg"
       ],
       "visibility": "visible"
     }
