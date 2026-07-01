@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T06:00:48.215Z",
+  "updated_at": "2026-07-01T13:22:24.658Z",
   "news": [
     {
       "id": 1,
@@ -495,6 +495,22 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/39-1.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/39-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/39-3.jpg"
+      ],
+      "visibility": "visible"
+    },
+    {
+      "id": 40,
+      "title": "Дом с бассейном в минуте ходьбы\r",
+      "preview": "Выбираем квартиру в ЖК Есенинские поля",
+      "text": "Ищете жилье по комфортной цене в квартале, где все рядом?\r\n<p>\r\nПрисмотритесь к ЖК Есенинские поля — здесь сложившаяся и богатая инфраструктура: магазины, ПВЗ, клиники и детские сады. А в шаговой доступности есть собственный торговый центр и spa-курорт Новые Термы, где приятно отдыхать всей семьей в любое время года.\r\n<p>\r\nСейчас, на старте продаж нового дома, квартиры доступны от 2,9 млн рублей.\r\n<p>\r\nУзнайте больше на нашем сайте или по телефону: +7 (4822) 415-888\r",
+      "date": "2026-07-01T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/40-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/40-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/40-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/40-4.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/40-5.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/40-6.jpg"
       ],
       "visibility": "visible"
     }
