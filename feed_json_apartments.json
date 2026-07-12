@@ -1056,6 +1056,32 @@
         }
       },
       {
+        "id": "14328017",
+        "building_id": "119958",
+        "complex_id": "34301",
+        "title": "Есенинские поля, Есенинские поля 36-1, Секция 1, №176",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2a2057.png",
+        "number": 176,
+        "entrance": 1,
+        "floor": 15,
+        "rooms": 1,
+        "square_meters": 35.24,
+        "price": "4986072",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "12.55"
+            }
+          ]
+        }
+      },
+      {
         "id": "14328024",
         "building_id": "119958",
         "complex_id": "34301",
