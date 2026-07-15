@@ -614,6 +614,32 @@
         }
       },
       {
+        "id": "14327948",
+        "building_id": "119958",
+        "complex_id": "34301",
+        "title": "Есенинские поля, Есенинские поля 36-1, Секция 1, №107",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9bc2ea851.png",
+        "number": 107,
+        "entrance": 1,
+        "floor": 9,
+        "rooms": 1,
+        "square_meters": 35.23,
+        "price": "5003400",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "15.24"
+            }
+          ]
+        }
+      },
+      {
         "id": "14327960",
         "building_id": "119958",
         "complex_id": "34301",
@@ -687,32 +713,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "11.46"
-            }
-          ]
-        }
-      },
-      {
-        "id": "14327970",
-        "building_id": "119958",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 36-1, Секция 1, №129",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/666a9b859a4cb.png",
-        "number": 129,
-        "entrance": 1,
-        "floor": 11,
-        "rooms": 1,
-        "square_meters": 41.22,
-        "price": "5678715",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "15.2"
             }
           ]
         }
@@ -2836,7 +2836,7 @@
         "floor": 15,
         "rooms": 1,
         "square_meters": 38.2,
-        "price": "6359880",
+        "price": "6400525",
         "options": {
           "is_booked": false,
           "old_price": null,
