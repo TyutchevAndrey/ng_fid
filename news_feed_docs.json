@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T06:00:49.646Z",
+  "updated_at": "2026-07-20T06:00:50.488Z",
   "news": [
     {
       "id": 1,
@@ -535,7 +535,12 @@
       "preview": "Или скидка на квартиру 10% ",
       "text": "Новый город сделает ваш переезд еще приятнее — при покупке квартиры дарим полноценную чистовую отделку!\r\n<p>\r\nА если вы задумали нечто особенное и хотите сделать ремонт сами, мы заменим его на скидку на квартиру 10%.\r\n<p>\r\nУзнайте больше по телефону +7 (4822) 415-888 или у вашего персонального менеджера.\r",
       "date": "2026-07-13T09:00:00.000Z",
-      "images": [],
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/42-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/42-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/42-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/42-4.jpg"
+      ],
       "visibility": "visible"
     }
   ]
