@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T06:01:03.388Z",
+  "updated_at": "2026-07-23T06:23:42.832Z",
   "news": [
     {
       "id": 1,
@@ -549,7 +549,12 @@
       "preview": "Ведь впереди еще почти половина лета!\r",
       "text": "Ловите теплые деньки и отправляйтесь вместе с близкими на мероприятия в Твери и области. Мы собрали несколько классных идей, куда можно отправиться уже в ближайшие недели.\r\n<p>\r\nНаслаждайтесь летом по-максимуму!\r",
       "date": "2026-07-23T09:00:00.000Z",
-      "images": [],
+      "images": [
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/43-1.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/43-2.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/43-3.jpg",
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/43-4.jpg"
+      ],
       "visibility": "visible"
     }
   ]
