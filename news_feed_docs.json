@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T11:37:43.754Z",
+  "updated_at": "2026-07-28T12:52:58.636Z",
   "news": [
     {
       "id": 1,
@@ -144,7 +144,7 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/11-1.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/11-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/11-3.jpg",
-        "https://storage.yandexcloud.net/ngstroy/news_app/11-4.jpg"
+        "https://storage.yandexcloud.net/n8n-s3/news_ng/11-4.jpg"
       ],
       "visibility": "visible"
     },
@@ -440,7 +440,7 @@
         "https://storage.yandexcloud.net/n8n-s3/news_ng/32-1.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/32-2.jpg",
         "https://storage.yandexcloud.net/n8n-s3/news_ng/32-3.jpg",
-        "https://storage.yandexcloud.net/n8n-s3/news_ng/32-4.jpg"
+        "https://storage.yandexcloud.net/ngstroy/news_app/32-4.jpg"
       ],
       "visibility": "visible"
     },
@@ -564,7 +564,11 @@
       "text": "Проснуться, позавтракать всей семьёй, отвести ребенка в школу за 5 минут и спокойно отправится по свои делам. \n<p>\nЗвучит как мечта, а на самом деле — обычное утро жителя Нового города. Рядом с каждым из наших кварталов есть достаточно садов и школ, а также кружков и секций для всестороннего развития детей любого возраста.\n<p>\nУзнайте больше о наших кварталах по телефону: \n+7 (4822) 415-888",
       "date": "2026-07-28T09:00:00.000Z",
       "images": [
-        "https://storage.yandexcloud.net/ngstroy/news_app/44-1.jpg"
+        "https://storage.yandexcloud.net/ngstroy/news_app/44-1.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/44-2.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/44-3.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/44-4.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/44-5.jpg"
       ],
       "visibility": "visible"
     }
