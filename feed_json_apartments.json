@@ -418,7 +418,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 32.72,
-        "price": "4942814",
+        "price": "5012410",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -496,7 +496,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 35.23,
-        "price": "5097112",
+        "price": "5172081",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -822,6 +822,32 @@
         }
       },
       {
+        "id": "12828118",
+        "building_id": "111814",
+        "complex_id": "34301",
+        "title": "Есенинские поля, Есенинские поля 37 1-2, Секция 1, №492",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d772eda2af.jpg",
+        "number": 492,
+        "entrance": 1,
+        "floor": 9,
+        "rooms": 1,
+        "square_meters": 24.2,
+        "price": "3900314",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "12.9"
+            }
+          ]
+        }
+      },
+      {
         "id": "12828119",
         "building_id": "111814",
         "complex_id": "34301",
@@ -834,7 +860,7 @@
         "floor": 9,
         "rooms": 3,
         "square_meters": 71.7,
-        "price": "8771778",
+        "price": "9153222",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -964,7 +990,7 @@
         "floor": 9,
         "rooms": 3,
         "square_meters": 71.3,
-        "price": "9064226",
+        "price": "9443471",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1016,7 +1042,7 @@
         "floor": 11,
         "rooms": 3,
         "square_meters": 71.3,
-        "price": "9026295",
+        "price": "9405540",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1094,7 +1120,7 @@
         "floor": 12,
         "rooms": 3,
         "square_meters": 71.3,
-        "price": "8950432",
+        "price": "9329676",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1966,32 +1992,6 @@
         }
       },
       {
-        "id": "14847942",
-        "building_id": "123511",
-        "complex_id": "16754",
-        "title": "Южный, Южный 4-2, Секция 2, №253",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b9276ad.jpg",
-        "number": 253,
-        "entrance": 2,
-        "floor": 10,
-        "rooms": 2,
-        "square_meters": 55.6,
-        "price": "8133001",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "30"
-            }
-          ]
-        }
-      },
-      {
         "id": "14847943",
         "building_id": "123511",
         "complex_id": "16754",
@@ -2013,32 +2013,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "10.7"
-            }
-          ]
-        }
-      },
-      {
-        "id": "14847944",
-        "building_id": "123511",
-        "complex_id": "16754",
-        "title": "Южный, Южный 4-2, Секция 2, №255",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b1a848e.jpg",
-        "number": 255,
-        "entrance": 2,
-        "floor": 10,
-        "rooms": 1,
-        "square_meters": 37.6,
-        "price": "5839994",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "14.6"
             }
           ]
         }
