@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T06:00:47.633Z",
+  "updated_at": "2026-08-08T06:00:35.733Z",
   "news": [
     {
       "id": 1,
@@ -569,6 +569,22 @@
         "https://storage.yandexcloud.net/ngstroy/news_app/44-3.jpg",
         "https://storage.yandexcloud.net/ngstroy/news_app/44-4.jpg",
         "https://storage.yandexcloud.net/ngstroy/news_app/44-5.jpg"
+      ],
+      "visibility": "visible"
+    },
+    {
+      "id": 45,
+      "title": "Комфортная ставка для всех ",
+      "preview": "Даже если вы не подходите под льготную программу ",
+      "text": "В ЖК Южный квартиру с комфортным ежемесячный платежом может позволить себе любой — независимо от состава семьи и рода занятий. \r\n<p>\r\nСтавка 2,5% действует первый год — чтобы войти в ипотеку мягко и без ущерба для бюджета. После окончания льготного периода ставку можно будет рефинансировать или перейти на льготную программу. \r\n<p>\r\nПодробнее по телефону: +7 (4822) 415-888\r",
+      "date": "2026-08-08T09:00:00.000Z",
+      "images": [
+        "https://storage.yandexcloud.net/ngstroy/news_app/45-1.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/45-2.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/45-3.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/45-4.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/45-5.jpg",
+        "https://storage.yandexcloud.net/ngstroy/news_app/45-6.jpg"
       ],
       "visibility": "visible"
     }
