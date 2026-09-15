@@ -1120,7 +1120,7 @@
         "floor": 1,
         "rooms": 2,
         "square_meters": 78.4,
-        "price": "9508117",
+        "price": "9674874",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1172,7 +1172,7 @@
         "floor": 11,
         "rooms": 2,
         "square_meters": 77.6,
-        "price": "9988905",
+        "price": "10154038",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1198,7 +1198,7 @@
         "floor": 12,
         "rooms": 1,
         "square_meters": 47.3,
-        "price": "7044673",
+        "price": "7195654",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1207,6 +1207,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": "18.7"
+            }
+          ]
+        }
+      },
+      {
+        "id": "14847972",
+        "building_id": "123511",
+        "complex_id": "16754",
+        "title": "Южный, Южный 4-2, Секция 2, №283",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b64bccb.jpg",
+        "number": 283,
+        "entrance": 2,
+        "floor": 13,
+        "rooms": 2,
+        "square_meters": 77.6,
+        "price": "10319170",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "34.6"
             }
           ]
         }
@@ -1224,7 +1250,7 @@
         "floor": 13,
         "rooms": 1,
         "square_meters": 47.3,
-        "price": "7120164",
+        "price": "7271098",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1250,7 +1276,7 @@
         "floor": 13,
         "rooms": 1,
         "square_meters": 27.8,
-        "price": "4776290",
+        "price": "4865000",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -1302,7 +1328,7 @@
         "floor": 15,
         "rooms": 2,
         "square_meters": 55.6,
-        "price": "8340000",
+        "price": "8458317",
         "options": {
           "is_booked": false,
           "old_price": null,
