@@ -262,7 +262,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 30.5,
-        "price": "6267537",
+        "price": "6364862",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -288,7 +288,7 @@
         "floor": 10,
         "rooms": 1,
         "square_meters": 39.8,
-        "price": "7339677",
+        "price": "7466679",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -314,7 +314,7 @@
         "floor": 7,
         "rooms": 2,
         "square_meters": 66.2,
-        "price": "10322566",
+        "price": "10533810",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -340,7 +340,7 @@
         "floor": 10,
         "rooms": 1,
         "square_meters": 37.1,
-        "price": "7010824",
+        "price": "7129247",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -366,7 +366,7 @@
         "floor": 11,
         "rooms": 1,
         "square_meters": 36,
-        "price": "6864516",
+        "price": "6979392",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -583,32 +583,6 @@
             {
               "title": "Жилая площадь, м²",
               "value": "16.1"
-            }
-          ]
-        }
-      },
-      {
-        "id": "13631471",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 37 3-4, Секция 4, №42",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3595c403a3.jpg",
-        "number": 42,
-        "entrance": 4,
-        "floor": 9,
-        "rooms": 1,
-        "square_meters": 35.1,
-        "price": "5526390",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "14.1"
             }
           ]
         }
