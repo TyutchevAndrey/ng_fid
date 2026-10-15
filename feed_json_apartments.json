@@ -250,6 +250,32 @@
   "apartments": {
     "items": [
       {
+        "id": "14185186",
+        "building_id": "119310",
+        "complex_id": "47855",
+        "title": "ЖК ТОТ, ТОТ 1, Секция 1, №30",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f91d21e2.jpg",
+        "number": 30,
+        "entrance": 1,
+        "floor": 9,
+        "rooms": 1,
+        "square_meters": 30.5,
+        "price": "6364862",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "9.1"
+            }
+          ]
+        }
+      },
+      {
         "id": "14185234",
         "building_id": "119310",
         "complex_id": "47855",
@@ -756,7 +782,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.8,
-        "price": "5988503",
+        "price": "6108253",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -782,7 +808,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 39.6,
-        "price": "6080303",
+        "price": "6201914",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -808,7 +834,7 @@
         "floor": 1,
         "rooms": 1,
         "square_meters": 37.3,
-        "price": "5868782",
+        "price": "5986165",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -817,6 +843,32 @@
             {
               "title": "Жилая площадь, м²",
               "value": "13.5"
+            }
+          ]
+        }
+      },
+      {
+        "id": "13640550",
+        "building_id": "117008",
+        "complex_id": "16754",
+        "title": "Южный, Южный 4-1, Секция 1, №145",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3d4dd53b.jpg",
+        "number": 145,
+        "entrance": 1,
+        "floor": 15,
+        "rooms": 2,
+        "square_meters": 62.5,
+        "price": "9087750",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "24.9"
             }
           ]
         }
