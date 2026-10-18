@@ -250,32 +250,6 @@
   "apartments": {
     "items": [
       {
-        "id": "14185186",
-        "building_id": "119310",
-        "complex_id": "47855",
-        "title": "ЖК ТОТ, ТОТ 1, Секция 1, №30",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66473f91d21e2.jpg",
-        "number": 30,
-        "entrance": 1,
-        "floor": 9,
-        "rooms": 1,
-        "square_meters": 30.5,
-        "price": "6364862",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "9.1"
-            }
-          ]
-        }
-      },
-      {
         "id": "14185234",
         "building_id": "119310",
         "complex_id": "47855",
