@@ -640,32 +640,6 @@
         }
       },
       {
-        "id": "13631613",
-        "building_id": "116963",
-        "complex_id": "34301",
-        "title": "Есенинские поля, Есенинские поля 37 3-4, Секция 3, №184",
-        "type": "apartment",
-        "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d3593d90f10.jpg",
-        "number": 184,
-        "entrance": 3,
-        "floor": 16,
-        "rooms": 1,
-        "square_meters": 32.1,
-        "price": "5189960",
-        "options": {
-          "is_booked": false,
-          "old_price": null,
-          "is_action": false,
-          "custom_fields": [
-            {
-              "title": "Жилая площадь, м²",
-              "value": "13.7"
-            }
-          ]
-        }
-      },
-      {
         "id": "13033763",
         "building_id": "113085",
         "complex_id": "16754",
