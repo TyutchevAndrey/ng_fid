@@ -276,7 +276,7 @@
         "floor": 9,
         "rooms": 1,
         "square_meters": 30.5,
-        "price": "6364862",
+        "price": "6381088",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -654,19 +654,19 @@
         }
       },
       {
-        "id": "13033928",
-        "building_id": "113085",
+        "id": "13640407",
+        "building_id": "117008",
         "complex_id": "16754",
-        "title": "Южный, Южный 3-3, Секция 3, №170",
+        "title": "Южный, Южный 4-1, Секция 1, №2",
         "type": "apartment",
         "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/653a0e47c931b.jpg",
-        "number": 170,
-        "entrance": 3,
-        "floor": 16,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/65d5b3ce1a2a1.jpg",
+        "number": 2,
+        "entrance": 1,
+        "floor": 1,
         "rooms": 1,
         "square_meters": 39.6,
-        "price": "6144732",
+        "price": "6201914",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -674,7 +674,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": "16.8"
+              "value": "15.5"
             }
           ]
         }
