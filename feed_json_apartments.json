@@ -498,6 +498,32 @@
         }
       },
       {
+        "id": "12828324",
+        "building_id": "111814",
+        "complex_id": "34301",
+        "title": "Есенинские поля, Есенинские поля 37 1-2, Секция 2, №339",
+        "type": "apartment",
+        "parking_slot_type": null,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/650d7d62ed694.jpg",
+        "number": 339,
+        "entrance": 2,
+        "floor": 11,
+        "rooms": 1,
+        "square_meters": 34.8,
+        "price": "5362158",
+        "options": {
+          "is_booked": false,
+          "old_price": null,
+          "is_action": false,
+          "custom_fields": [
+            {
+              "title": "Жилая площадь, м²",
+              "value": "10"
+            }
+          ]
+        }
+      },
+      {
         "id": "13631431",
         "building_id": "116963",
         "complex_id": "34301",
