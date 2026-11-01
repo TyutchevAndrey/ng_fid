@@ -784,19 +784,19 @@
         }
       },
       {
-        "id": "14847950",
+        "id": "14847841",
         "building_id": "123511",
         "complex_id": "16754",
-        "title": "Южный, Южный 4-2, Секция 2, №261",
+        "title": "Южный, Южный 4-2, Секция 2, №152",
         "type": "apartment",
         "parking_slot_type": null,
-        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b64bccb.jpg",
-        "number": 261,
+        "plan": "https://pb641.profitbase.ru/uploads/preset/641/66f277b5344a8.jpg",
+        "number": 152,
         "entrance": 2,
-        "floor": 11,
+        "floor": 1,
         "rooms": 2,
-        "square_meters": 76.9,
-        "price": "10263689",
+        "square_meters": 78,
+        "price": "9818016",
         "options": {
           "is_booked": false,
           "old_price": null,
@@ -804,7 +804,7 @@
           "custom_fields": [
             {
               "title": "Жилая площадь, м²",
-              "value": "34.6"
+              "value": "34.5"
             }
           ]
         }
